@@ -1,0 +1,107 @@
+<allophones name="sampa" xml:lang="lg"
+		features="vlng vheight vfront vrnd ctype cplace cvox">
+	<silence ph="_"/>
+	<!-- long and short vowels of luganda -->
+	<vowel ph="a" vlng="s" vheight="3" vfront="2" vrnd="-"/>
+	<vowel ph="e" vlng="s" vheight="2" vfront="1" vrnd="-"/>
+	<vowel ph="i" vlng="s" vheight="1" vfront="1" vrnd="-"/>
+	<vowel ph="o" vlng="s" vheight="2" vfront="3" vrnd="+"/>
+	<vowel ph="u" vlng="s" vheight="1" vfront="3" vrnd="+"/>
+	<vowel ph="a:" vlng="l" vheight="3" vfront="2" vrnd="-"/>
+	<vowel ph="e:" vlng="l" vheight="2" vfront="1" vrnd="-"/>
+	<vowel ph="i:" vlng="l" vheight="1" vfront="1" vrnd="-"/>
+	<vowel ph="o:" vlng="l" vheight="2" vfront="3" vrnd="+"/>
+	<vowel ph="u:" vlng="l" vheight="2" vfront="3" vrnd="+"/>
+	
+	<!-- Stop consonants or plosives -->
+	<consonant ph="p" ctype="s" cplace="l" cvox="-" long="-" />
+	<consonant ph="t" ctype="s" cplace="d" cvox="-" long="-" />
+	<consonant ph="k" ctype="s" cplace="v" cvox="-" long="-" />
+	<consonant ph="b" ctype="s" cplace="l" cvox="+" long="-" />
+	<consonant ph="d" ctype="s" cplace="d" cvox="+" long="-" />
+	<consonant ph="g" ctype="s" cplace="v" cvox="+" long="-" />
+	<consonant ph="h" ctype="s" cplace="p" cvox="+" long="-" />
+	<consonant ph="j" ctype="s" cplace="p" cvox="+" long="-" />
+
+	<consonant ph="jj" ctype="s" cplace="p" cvox="+" long="+" />
+	<consonant ph="pp" ctype="s" cplace="l" cvox="-" long="+" />
+	<consonant ph="tt" ctype="s" cplace="d" cvox="-" long="+" />
+	<consonant ph="kk" ctype="s" cplace="v" cvox="-" long="+" />
+	<consonant ph="bb" ctype="s" cplace="l" cvox="+" long="+" />
+	<consonant ph="dd" ctype="s" cplace="d" cvox="+" long="+" />
+	<consonant ph="gg" ctype="s" cplace="v" cvox="+" long="+" />
+
+	<!-- Fricative consonants -->
+	<consonant ph="f" ctype="f" cplace="b" cvox="-" long="-" />
+	<consonant ph="s" ctype="f" cplace="a" cvox="-" long="-" />
+	<consonant ph="v" ctype="f" cplace="b" cvox="+" long="-" />
+	<consonant ph="z" ctype="f" cplace="a" cvox="+" long="-" />
+	<consonant ph="c" ctype="f" cplace="p" cvox="-" long="-" />
+	<consonant ph="ki" ctype="f" cplace="p" cvox="-" long="-" />
+
+	<consonant ph="ff" ctype="f" cplace="b" cvox="-" long="+" />
+	<consonant ph="ss" ctype="f" cplace="a" cvox="-" long="+" />
+	<consonant ph="vv" ctype="f" cplace="b" cvox="+" long="+" />
+	<consonant ph="zz" ctype="f" cplace="a" cvox="+" long="+" />
+	<consonant ph="cc" ctype="f" cplace="p" cvox="-" long="+" />
+	
+	<!-- Nasal consonants -->
+	<consonant ph="m" ctype="n" cplace="l" cvox="+" long="-" />
+	<consonant ph="n" ctype="n" cplace="a" cvox="+" long="-" />
+	<!-- this is not trained
+	<consonant ph="ŋ" ctype="n" cplace="a" cvox="+" long="-" />-->
+	
+	<consonant ph="mm" ctype="n" cplace="l" cvox="+" long="+" />
+	<consonant ph="nn" ctype="n" cplace="a" cvox="+" long="+" />
+	<consonant ph="ng'" ctype="n" cplace="a" cvox="+" long="+" />
+	<consonant ph="ng" ctype="n" cplace="a" cvox="+" long="+" />
+	<consonant ph="nk" ctype="n" cplace="v" cvox="-" long="+" />
+	<consonant ph="nt" ctype="n" cplace="a" cvox="-" long="+" />
+	<consonant ph="nd" ctype="n" cplace="a" cvox="+" long="+" />
+	<consonant ph="nf" ctype="n" cplace="a" cvox="-" long="+" />
+	<consonant ph="nv" ctype="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="ns" ctype="n" cplace="a" cvox="-" long="+" />
+	<consonant ph="nz" ctype="n" cplace="a" cvox="+" long="+" />
+	<consonant ph="mb" ctype="n" cplace="b" cvox="-" long="+" />
+	<consonant ph="mp" ctype="n" cplace="b" cvox="-" long="+" />
+	<consonant ph="ny" ctype="n" cplace="p" cvox="-" long="+" />
+
+	<consonant ph="pw" ctype="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="bw" ctype="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="tw" ctype="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="dw" type="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="cw" ctype="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="jw" ctype="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="kw" ctype="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="gw" type="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="sw" ctype="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="nw" ctype="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="nyw" ctype="n" cplace="p" cvox="+" long="+" />
+	<consonant ph="mw" ctype="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="lw" ctype="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="rw" ctype="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="py" ctype="n" cplace="b" cvox="-" long="+" />
+	<consonant ph="by" ctype="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="ty" ctype="n" cplace="a" cvox="-" long="+" />
+	<consonant ph="dy" ctype="n" cplace="a" cvox="+" long="+" />
+	<consonant ph="ky" ctype="n" cplace="v" cvox="-" long="+" />
+	<consonant ph="gy" ctype="n" cplace="p" cvox="+" long="+" />
+	<consonant ph="my" ctype="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="ry" ctype="n" cplace="a" cvox="+" long="+" />
+	<consonant ph="ggw" ctype="n" cplace="b" cvox="+" long="+" />
+	<consonant ph="ggy" ctype="n" cplace="p" cvox="+" long="+" />
+	<consonant ph="nny" ctype="n" cplace="p" cvox="+" long="+" />
+
+	<!-- Liquid consonants -->
+	<consonant ph="l" ctype="l" cplace="a" cvox="+" long="-" />
+	<consonant ph="r" ctype="l" cplace="a" cvox="+" long="-" />
+
+	<!-- Approximant consonants (semivowels) -->
+	<consonant ph="w" ctype="r" cplace="l" cvox="+" long="-" />
+	<consonant ph="y" ctype="r" cplace="p" cvox="-" long="-" />
+	
+</allophones> 
+
+	
+	
+

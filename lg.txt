@@ -1,0 +1,2128 @@
+ #########################################################################
+# Copyright 2009 DFKI GmbH.
+# All Rights Reserved.  Use is subject to license terms.
+#
+# This file is part of MARY TTS.
+#
+# MARY TTS is free software: you can redistribute it and/or modify
+# it under the terms of the GNU Lesser General Public License as published by
+# the Free Software Foundation, version 3 of the License.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU Lesser General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+# #########################################################################
+Luganda 'lu-u-gand-da-a
+mu 'mu-u functional
+nga 'nga-a functional
+akawuka 'a-a-ka-wu-u-ka-a
+abantu 'a-a-ba-ntu-u
+era 'e-ra-a functional
+empiki 'emm-pi-i-kii
+kwe 'kwe functional
+ela 'e-la-a functional
+ka 'ka-a functional
+bwa 'bwa-a functional
+wa 'wa-a functional
+aba 'a-a-ba-a functional
+okuva 'o-o-ku-u-va-a
+wakati 'wa-a-ka-ti-i
+lya 'lya-a functional
+kya 'kya-a functional
+omubiri 'o-o-mu-u-bi-i-ri-i
+ebitundu 'e-bi-i-tu-und-du-u
+lwe 'lwe functional
+omweso 'o-o-mwe-so-o
+eddagala 'edd-dda-ga-la-a
+lulimi 'lu-u-li-i-mi-i
+olw 'o-olw functional
+obulungi 'o-o-bu-u-lu-u-ngi-i
+ekyo 'e-kyo-o functional
+obutoffaali 'o-o-bu-u-to-o-ffa-a-li-i
+naye 'na-a-ye functional
+gwa 'gwa-a functional
+obulabe 'o-o-bu-u-la-be
+musaayi 'mu-u-sa-a-yi-i
+endwadde 'end-dwadd-dde
+mbeera 'mbe-e-ra-a
+bantu 'ba-a-ntu-u
+bya 'bya-a functional
+olwa 'o-o-lwa-a functional
+okuyiga 'o-o-ku-u-yi-i-ga-a
+kano 'ka-a-no-o functional
+nsi 'nsi-i functional
+ba 'ba-a functional
+na 'na-a functional
+Sirim 'si-i-ri-im
+bange 'ba-a-nge
+nno 'nno-o functional
+abo 'a-a-bo-o
+embeera 'e-mbe-e-ra-a
+endala 'end-da-la-a
+kwesa 'kwe-sa-a
+okutuuka 'o-o-ku-u-tu-u-u-u-ka-a
+olulimi 'o-o-lu-u-li-i-mi-i
+Era 'e-ra-a functional
+ludda 'lu-udd-dda-a
+eyo 'e-yo-o functional
+emu 'e-mu-u functional
+lye 'lye functional
+munne 'mu-u-nne
+okukwatibwa 'o-o-ku-u-kwa-ti-i-bwa-a
+abalala 'a-a-ba-la-la-a
+kwa 'kwa-a functional
+Nga 'nga-a functional
+mpiki 'mmpi-i-kii
+Baana 'ba-a-a-na-a
+Abantu 'a-a-ba-ntu-u
+zonna 'zo-o-nna-a functional
+okutta 'o-o-ku-u-tta-a
+omwana 'o-o-mwa-na-a
+Kyokka 'kyo-o-kka-a
+masa 'ma-a-sa-a functional
+Empiki 'emm-pi-i-kii
+ezo 'e-zo-o functional
+bayita 'ba-a-yi-i-ta-a
+eri 'e-ri-i functional
+ensonga 'e-nso-o-nga-a
+Lua 'lu-u-a-a functional
+ebyafaayo 'e-bya-fa-a-yo-o
+mawanga 'ma-a-wa-nga-a
+obwa 'o-o-bwa-a functional
+Bwe 'bwe functional
+ekya 'e-kya-a functional
+waggulu 'wa-a-ggu-u-lu-u
+lino 'li-i-no-o functional
+alina 'a-a-li-i-na-a functional
+ziba 'zi-i-ba-a functional
+mubiri 'mu-u-bi-i-ri-i
+ekiriisa 'e-kii-ri-i-i-i-sa-a
+ge 'ge functional
+bulabe 'bu-u-la-be
+asobola 'a-a-so-o-bo-o-la-a
+ekimu 'e-kii-mu-u
+Ate 'a-a-te functional
+wansi 'wa-a-nsi-i
+Empagi 'emm-pa-gi-i
+ayesa 'a-a-ye-sa-a
+okutuusa 'o-o-ku-u-tu-u-u-u-sa-a
+obungi 'o-o-bu-u-ngi-i
+ayinza 'a-a-yi-i-nza-a
+oyo 'o-o-yo-o functional
+baabwe 'ba-a-a-bwe
+olumu 'o-o-lu-u-mu-u
+kubanga 'ku-u-ba-nga-a
+mweso 'mwe-so-o
+eky 'eky functional
+beesa 'be-e-sa-a
+kawuka 'ka-a-wu-u-ka-a
+basajja 'ba-a-sajj-jja-a
+abasajja 'a-a-ba-sajj-jja-a
+essa 'e-ssa-a functional
+za 'za-a functional
+ennimi 'e-nni-i-mi-i
+naddala 'na-add-dda-la-a
+abakulu 'a-a-ba-ku-u-lu-u
+kiba 'kii-ba-a functional
+ziyitibwa 'zi-i-yi-i-ti-i-bwa-a
+kyokka 'kyo-o-kka-a
+guli 'gu-u-li-i functional
+omuyizi 'o-o-mu-u-yi-i-zi-i
+ebimu 'e-bi-i-mu-u
+yo 'yo-o functional
+okudda 'o-o-ku-udd-dda-a
+okusaasaanya 'o-o-ku-u-sa-a-sa-a-nya-a
+Buli 'bu-u-li-i functional
+siriimu 'si-i-ri-i-i-i-mu-u
+obulumbaganyi 'o-o-bu-u-lu-u-mba-ga-nyi-i
+Basaaya 'ba-a-sa-a-ya-a
+Akawuka 'a-a-ka-wu-u-ka-a
+zaabwe 'za-a-a-bwe
+esiga 'e-si-i-ga-a
+omugaso 'o-o-mu-u-ga-so-o
+ekintu 'e-kii-ntu-u
+Uganda 'u-u-gand-da-a
+omusaayi 'o-o-mu-u-sa-a-yi-i
+maama 'ma-a-a-ma-a
+oluzaalilanwa 'o-o-lu-u-za-a-li-i-la-nwa-a
+si 'si-i functional
+MU 'mu-u functional
+ssomelo 'sso-o-me-lo-o
+okwegatta 'o-o-kwe-ga-tta-a
+mulimu 'mu-u-li-i-mu-u
+Olulimi 'o-o-lu-u-li-i-mi-i
+ebirala 'e-bi-i-ra-la-a functional
+bwabwe 'bwa-bwe functional
+amaanyi 'a-a-ma-a-nyi-i
+enzaalilanwa 'e-nza-a-li-i-la-nwa-a
+zaavudde'za-a-a-vu-udd-dde
+agamba 'a-a-ga-mba-a
+kumpi 'ku-umm-pi-i functional
+okuyita 'o-o-ku-u-yi-i-ta-a
+omuwendo 'o-o-mu-u-wend-do-o
+ke 'ke functional
+kuyiga 'ku-u-yi-i-ga-a
+okulaba 'o-o-ku-u-la-ba-a
+yenna 'ye-nna-a functional
+byabwe 'bya-bwe functional
+kintu 'kii-ntu-u
+kyeso 'kye-so-o functional
+ekiseera 'e-kii-se-e-ra-a
+abasinga 'a-a-ba-si-i-nga-a
+awamu 'a-a-wa-mu-u
+buswavu 'bu-u-swa-vu-u
+abaami 'a-a-ba-a-mi-i
+nnimi 'nni-i-mi-i
+obuwangwa 'o-o-bu-u-wang-wa-a
+amangu 'a-a-ma-ngu-u
+Kibi 'kii-bi-i functional
+bo 'bo-o functional
+ekyeso 'e-kye-so-o
+oludda 'o-o-lu-udd-dda-a
+okwagala 'o-o-kwa-ga-la-a
+ekitundu 'e-kii-tu-und-du-u
+obusobozi 'o-o-bu-u-so-o-bo-o-zi-i
+Gwamwenda 'gwa-mwend-da-a
+emirundi 'e-mi-i-ru-und-di-i
+okumala 'o-o-ku-u-ma-la-a
+Okuva 'o-o-ku-u-va-a
+olulala 'o-o-lu-u-la-la-a
+ngeli 'nge-li-i functional
+Ne 'ne functional
+Ssese 'sse-se functional
+bulijjo 'bu-u-li-ijj-jjo-o
+ensibuko 'e-nsi-i-bu-u-ko-o
+nsonga 'nso-o-nga-a
+akaluubililwa 'a-a-ka-lu-u-u-u-bi-i-li-i-lwa-a
+Wangi 'wa-a-ngi-i
+okukozesa 'o-o-ku-u-ko-o-ze-sa-a
+mmwe 'mmwe functional
+amasa 'a-a-ma-sa-a
+bujjanjabi 'bu-ujj-jjan-jja-bi-i
+tewali 'te-wa-li-i
+newankubadde 'ne-wa-nku-u-badd-dde
+abali 'a-a-ba-li-i
+ddagala 'dddda-ga-la-a
+bulamu 'bu-u-la-mu-u
+obuwanguzi 'o-o-bu-u-wa-ngu-u-zi-i
+Obuganda 'o-o-bu-u-gand-da-a
+ennyingi 'e-nnyi-i-ngi-i
+kabaka 'ka-a-ba-ka-a
+obwo 'o-o-bwo-o functional
+kati 'ka-a-ti-i functional
+lwabwe 'lwa-bwe functional
+ateekwa 'a-a-te-e-kwa-a
+atakaluubililwa 'a-a-ta-ka-lu-u-u-u-bi-i-li-i-lwa-a
+byenjigiliza 'byen-jji-i-gi-i-li-i-za-a
+kaba 'ka-a-ba-a functional
+okutangira 'o-o-ku-u-ta-ngi-i-ra-a
+ttuluba 'ttu-u-lu-u-ba-a
+entegeka 'e-nte-ge-ka-a
+Tewali 'te-wa-li-i
+ebbanga 'e-bba-nga-a
+Gwakkumi 'gwa-kku-u-mi-i
+Kyamiiru 'kya-mi-i-i-i-ru-u
+Gwamunaana 'gwa-mu-u-na-a-na-a
+empeerere 'emm-pe-e-re-re
+olubuto 'o-o-lu-u-bu-u-to-o
+bwammwe 'bwamm-we
+okusoma 'o-o-ku-u-so-o-ma-a
+amusikira 'a-a-mu-u-si-i-kii-ra-a
+Gwamukaaga 'gwa-mu-u-ka-a-ga-a
+akola 'a-a-ko-o-la-a
+Okusinga 'o-o-ku-u-si-i-nga-a
+abayizi 'a-a-ba-yi-i-zi-i
+enjawulo 'en-jja-wu-u-lo-o
+eza 'e-za-a functional
+eririmu 'e-ri-i-ri-i-mu-u
+Bwatyo 'bwa-tyo-o
+ababa 'a-a-ba-ba-a
+Katonda 'ka-a-to-ond-da-a
+omuli 'o-o-mu-u-li-i functional
+bakazi 'ba-a-ka-zi-i
+emilimu 'e-mi-i-li-i-mu-u
+obubonero 'o-o-bu-u-bo-o-ne-ro-o
+Omulangira 'o-o-mu-u-la-ngi-i-ra-a
+buba 'bu-u-ba-a functional
+eziri 'e-zi-i-ri-i functional
+Eddagala 'edd-dda-ga-la-a
+emyeso 'e-mye-so-o
+kyonna 'kyo-o-nna-a functional
+omusango 'o-o-mu-u-sa-ngo-o
+kuva 'ku-u-va-a functional
+mpozzi 'mmpo-o-zzi-i functional
+gumu 'gu-u-mu-u functional
+alaba 'a-a-la-ba-a functional
+bbiri 'bbi-i-ri-i functional
+Kalanda 'ka-a-land-da-a
+mugandawe 'mu-u-gand-da-we
+mwaka 'mwa-ka-a
+ebya 'e-bya-a functional
+ekitongole 'e-kii-to-o-ngo-o-le
+esobola 'e-so-o-bo-o-la-a
+Buddu 'bu-udd-ddu-u
+Buddo 'bu-udd-ddo-o
+Gusooka 'gu-u-so-o-o-o-ka-a
+omuwala 'o-o-mu-u-wa-la-a
+gwo 'gwo-o functional
+obulamu 'o-o-bu-u-la-mu-u
+omuzannyo 'o-o-mu-u-za-nnyo-o
+okutegeela 'o-o-ku-u-te-ge-e-la-a
+Siteegi 'si-i-te-e-gi-i
+oluusi 'o-o-lu-u-u-u-si-i
+abalina 'a-a-ba-li-i-na-a
+abakozi 'a-a-ba-ko-o-zi-i
+Embeera 'e-mbe-e-ra-a
+ebyeso 'e-bye-so-o functional
+obuzibu 'o-o-bu-u-zi-i-bu-u
+Gwakusatu 'gwa-ku-u-sa-tu-u
+mirimu 'mi-i-ri-i-mu-u
+katoffaali 'ka-a-to-o-ffa-a-li-i
+ekiyitibwa 'e-kii-yi-i-ti-i-bwa-a
+envunza 'e-nvu-u-nza-a
+obunnabantu 'o-o-bu-u-nna-ba-ntu-u
+omukisa 'o-o-mu-u-kii-sa-a
+Ekyo 'e-kyo-o functional
+kikolwa 'kii-ko-o-lwa-a
+yasikirwa 'ya-a-si-i-kii-rwa-a
+omulundi 'o-o-mu-u-lu-und-di-i
+ewa 'e-wa-a functional
+omugga 'o-o-mu-u-gga-a
+mutendera 'mu-u-tend-de-ra-a
+baami 'ba-a-a-mi-i
+Ezirekayo 'e-zi-i-re-ka-yo-o
+azaala 'a-a-za-a-la-a
+butoffaali 'bu-u-to-o-ffa-a-li-i
+omusajja 'o-o-mu-u-sajj-jja-a
+ezeekuusa 'e-ze-e-ku-u-u-u-sa-a
+jjajjaffe 'jjjjajj-jja-ffe
+kuno 'ku-u-no-o functional
+okutema 'o-o-ku-u-te-ma-a
+bbebi 'bbe-bi-i
+abazukulu 'a-a-ba-zu-u-ku-u-lu-u
+ekimanyiddwa 'e-kii-ma-nyi-idd-ddwa-a
+babwe 'ba-a-bwe
+engeli 'e-nge-li-i
+kaakano 'ka-a-a-ka-no-o
+Omweso 'o-o-mwe-so-o
+Abaami 'a-a-ba-a-mi-i
+okwa 'o-o-kwa-a
+Abaana 'a-a-ba-a-na-a
+okwo 'o-o-kwo-o functional
+ebiseera 'e-bi-i-se-e-ra-a
+okuzaala 'o-o-ku-u-za-a-la-a
+obw 'o-obw functional
+okugeza 'o-o-ku-u-ge-za-a
+Okwo 'o-o-kwo-o functional
+Ayesa 'a-a-ye-sa-a
+bikolwa 'bi-i-ko-o-lwa-a
+abaanabe 'a-a-ba-a-na-be
+Newankubadde 'ne-wa-nku-u-badd-dde
+ebitali 'e-bi-i-ta-li-i
+eriri 'e-ri-i-ri-i functional
+okubiri 'o-o-ku-u-bi-i-ri-i
+Obubonero 'o-o-bu-u-bo-o-ne-ro-o
+kulaba 'ku-u-la-ba-a
+myaka 'mya-ka-a
+bayinza 'ba-a-yi-i-nza-a
+owa 'o-o-wa-a functional
+eryo 'e-ryo-o functional
+mutabaniwe 'mu-u-ta-ba-ni-i-we
+erya 'e-rya-a functional
+zombi 'zo-o-mbi-i
+Olwo 'o-o-lwo-o functional
+okuli 'o-o-ku-u-li-i
+banne 'ba-a-nne functional
+empiso 'emm-pi-i-so-o
+nazo 'na-a-zo-o functional
+ogwo 'o-o-gwo-o functional
+okw 'o-okw functional
+enkola 'e-nko-o-la-a
+tuli 'tu-u-li-i functional
+kiri 'kii-ri-i functional
+ayoola 'a-a-yo-o-o-o-la-a
+okubaako 'o-o-ku-u-ba-a-ko-o
+kitabo 'kii-ta-bo-o
+kujja 'ku-ujj-jja-a
+ensengeka 'e-nse-nge-ka-a
+kukola 'ku-u-ko-o-la-a
+awatali 'a-a-wa-ta-li-i
+abato 'a-a-ba-to-o
+bamanyi 'ba-a-ma-nyi-i
+adda 'a-add-dda-a
+omuba 'o-o-mu-u-ba-a
+ebisinga 'e-bi-i-si-i-nga-a
+kiriisa 'kii-ri-i-i-i-sa-a
+abiri 'a-a-bi-i-ri-i
+erwanyisa 'e-rwa-nyi-i-sa-a
+ggwe 'ggwe functional
+kili 'kii-li-i functional
+gyabwe 'gya-bwe functional
+abeera 'a-a-be-e-ra-a
+baana 'ba-a-a-na-a
+omutima 'o-o-mu-u-ti-i-ma-a
+olaba 'o-o-la-ba-a
+bungi 'bu-u-ngi-i
+emitendera 'e-mi-i-tend-de-ra-a
+kitegeeza 'kii-te-ge-e-za-a
+Kimera 'kii-me-ra-a
+kibiina 'kii-bi-i-i-i-na-a
+Gwakuna 'gwa-ku-u-na-a
+Lino 'li-i-no-o functional
+ko 'ko-o functional
+okweyongera 'o-o-kwe-yo-o-nge-ra-a
+bwiino 'bwi-i-i-i-no-o
+zisobola 'zi-i-so-o-bo-o-la-a
+Obuzila 'o-o-bu-u-zi-i-la-a
+Ssekabaka 'sse-ka-ba-ka-a
+Kyebamba 'kye-ba-mba-a
+obukugu 'o-o-bu-u-ku-u-gu-u
+Basiga 'ba-a-si-i-ga-a
+omutaka 'o-o-mu-u-ta-ka-a
+Enkola 'e-nko-o-la-a
+kyangu 'kya-ngu-u
+Obulabe 'o-o-bu-u-la-be
+bannaabwe 'ba-a-nna-a-bwe
+esatu 'e-sa-tu-u functional
+batuuka 'ba-a-tu-u-u-u-ka-a
+okwongera 'o-o-kwo-o-nge-ra-a
+amawanga 'a-a-ma-wa-nga-a
+Goberera 'go-o-be-re-ra-a
+enkyuukakyuuka 'enk-yu-u-u-u-ka-kyu-u-u-u-ka-a
+empya 'emm-pya-a
+ezoku 'e-zo-o-ku-u functional
+muko 'mu-u-ko-o
+Empapula 'emm-pa-mpu-u-la-a
+enjawule 'en-jja-wu-u-le
+Lwakuna 'lwa-ku-u-na-a
+ezikuggusa 'e-zi-i-ku-u-ggu-u-sa-a
+luno 'lu-u-no-o functional
+Kolawo 'ko-o-la-wo-o
+enyunzi 'e-nyu-u-nzi-i
+egguka 'e-ggu-u-ka-a
+lupapula 'lu-u-mpa-mpu-u-la-a
+lufaanana 'lu-u-fa-a-na-na-a
+ssaawa 'ssa-a-wa-a
+Erinnya 'e-ri-i-nnya-a
+lunnansi 'lu-u-nna-nsi-i
+mubala 'mu-u-ba-la-a
+gweggwanga 'gwe-ggwa-nga-a
+bwabantu 'bwa-ba-ntu-u
+ekibuga 'e-kii-bu-u-ga-a
+ekisingamu 'e-kii-si-i-nga-mu-u
+obunene 'o-o-bu-u-ne-ne
+Kaakano 'ka-a-a-ka-no-o
+Wikipedia 'wi-i-kii-mpe-ddi-i-a-a
+erina 'e-ri-i-na-a functional
+abagikozesa 'a-a-ba-gi-i-ko-o-ze-sa-a
+batono 'ba-a-to-o-no-o
+bwoba 'bwo-o-ba-a functional
+omanyi 'o-o-ma-nyi-i
+era 'e-ra-a functional
+oyagala 'o-o-ya-ga-la-a
+Oluganda 'o-o-lu-u-gand-da-a
+okuyamba 'o-o-ku-u-ya-mba-a
+Tukkiriza 'tu-u-kki-i-ri-i-za-a
+okuvvuunula 'o-o-ku-u-vvu-u-u-u-nu-u-la-a
+eziri 'e-zi-i-ri-i functional
+nnimi 'nni-i-mi-i
+okuzizza 'o-o-ku-u-zi-i-zza-a
+Amakumi 'a-a-ma-ku-u-mi-i
+ssatu 'ssa-tu-u functional
+Mbaniriza 'mba-ni-i-ri-i-za-a
+abasomi 'a-a-ba-so-o-mi-i
+Mwebale 'mwe-ba-le
+namwo 'na-a-mwo-o
+mubaamu 'mu-u-ba-a-mu-u
+kutunuulira 'ku-u-tu-u-nu-u-u-u-li-i-ra-a
+gye 'gye functional
+byajjamu 'byajj-jja-mu-u
+byafaayo 'bya-fa-a-yo-o
+byaba 'bya-ba-a
+jjajjaffe 'jjjjajj-jja-ffe
+Kintu 'kii-ntu-u
+Kimera 'kii-me-ra-a
+naffe 'na-a-ffe functional
+kijja 'kiijj-jja-a functional
+kutuyamba 'ku-u-tu-u-ya-mba-a
+okumannya 'o-o-ku-u-ma-nnya-a
+yaffe 'ya-a-ffe functional
+Abawandiisi 'a-a-ba-wand-di-i-i-i-si-i
+bawandiika 'ba-a-wand-di-i-i-i-ka-a
+nebagamba 'ne-ba-ga-mba-a
+ffena 'ffe-na-a functional
+ba 'ba-a functional
+Balowooza 'ba-a-lo-o-wo-o-o-o-za-a
+yeyatandika 'ye-ya-tand-di-i-ka-a
+bano 'ba-a-no-o functional
+siyiinza 'si-i-yi-i-i-i-nza-a
+kubawakanya 'ku-u-ba-wa-ka-nya-a
+abawandiisi 'a-a-ba-wand-di-i-i-i-si-i
+abanoonyereza 'a-a-ba-no-o-o-o-nye-re-za-a
+kibaddewo 'kii-badd-dde-wo-o
+Iwa 'i-i-wa-a functional
+nsoonga 'nso-o-o-o-nga-a
+ebyayita 'e-bya-yi-i-ta-a
+Africa 'a-a-fri-i-'i-a-a
+teyalina 'te-ya-li-i-na-a
+nkuuma 'nku-u-u-u-ma-a
+nungi 'nu-u-ngi-i
+ya 'ya-a functional
+agaliranyewo 'a-a-ga-li-i-ra-nye-wo-o
+Misiri 'mi-i-si-i-ri-i
+tewaali 'te-wa-a-li-i
+byakuwandiisa 'bya-ku-u-wand-di-i-i-i-sa-a
+Abakulu 'a-a-ba-ku-u-lu-u
+bebaanyumizanga 'be-ba-a-nyu-u-mi-i-za-nga-a
+tebiteekeddwa 'te-bi-i-te-e-kedd-ddwa-a
+buwandiike 'bu-u-wand-di-i-i-i-ke
+Kyanaku 'kya-na-ku-u
+ebitonotono 'e-bi-i-to-o-no-o-to-o-no-o
+twaali 'twa-a-li-i
+tulina 'tu-u-li-i-na-a
+byayononebwa 'bya-yo-o-no-o-ne-bwa-a
+okutakoma 'o-o-ku-u-ta-ko-o-ma-a
+nabuli 'na-a-bu-u-li-i functional
+tebabiwandiika 'te-ba-bi-i-wand-di-i-i-i-ka-a
+nebabisirikira 'ne-ba-bi-i-si-i-ri-i-kii-ra-a
+Okunoonyereza 'o-o-ku-u-no-o-o-o-nye-re-za-a
+baffe 'ba-a-ffe functional
+Kirungi 'kii-ru-u-ngi-i
+bakiririza 'ba-a-kii-ri-i-ri-i-za-a
+biwandikiddwa 'bi-i-wand-di-i-kiidd-ddwa-a
+okusiinga 'o-o-ku-u-si-i-i-i-nga-a
+ebibanyumizibwa 'e-bi-i-ba-nyu-u-mi-i-zi-i-bwa-a
+Ebiwandiiko 'e-bi-i-wand-di-i-i-i-ko-o
+biwangaala 'bi-i-wa-nga-a-la-a
+tebikyukakyuka 'te-bi-i-kyu-u-ka-kyu-u-ka-a
+ebinyumizibwa 'e-bi-i-nyu-u-mi-i-zi-i-bwa-a
+biggwawo 'bi-i-ggwa-wo-o
+berabira 'be-ra-bi-i-ra-a
+nebaffa 'ne-ba-ffa-a
+lweyatandika 'lwe-ya-tand-di-i-ka-a
+bizze 'bi-i-zze
+biterekebwa 'bi-i-te-re-ke-bwa-a
+butiribiri 'bu-u-ti-i-ri-i-bi-i-ri-i
+nekyakiririzaamu 'ne-kya-kii-ri-i-ri-i-za-a-mu-u
+bibiri 'bi-i-bi-i-ri-i functional
+byawandiikibwa 'bya-wand-di-i-i-i-kii-bwa-a functional
+dda 'dddda-a
+kakati 'ka-a-ka-ti-i
+nkumi 'nku-u-mi-i
+egiyise 'e-gi-i-yi-i-se
+Ekyewunyisa 'e-e-kye-wu-u-nyi-i-sa-a
+teri 'te-e-ri-i functional
+yali 'ya-a-li-i functional
+avvuddeyo 'a-a-vvu-u-dde-yo-o
+kubiwakannya 'ku-u-bi-i-wa-ka-nnya-a
+Ebitabo 'e-e-bi-i-ta-bo-o
+cbyo 'i-byo-o functional
+byantanula 'bya-nta-nu-u-la-a
+kusalawo 'ku-u-sa-la-wo-o
+okuwandiika 'o-o-ku-u-wa-ndi-i-i-i-ka-a
+Omulimu 'o-o-mu-u-li-i-mu-u
+gwokuwandiika 'gwo-o-ku-u-wa-ndi-i-i-i-ka-a
+mukadde 'mu-u-ka-dde
+emabega 'e-e-ma-be-ga-a
+nange 'na-a-nge functional
+sinazaalibwa 'si-i-na-za-a-li-i-bwa-a
+Okusingira 'o-o-ku-u-si-i-ngi-i-ra-a
+daala 'da-a-a-la-a
+katwebaze 'ka-a-twe-ba-ze
+kamala 'ka-a-ma-la-a
+byonna 'byo-o-nna-a
+tutandika 'tu-u-ta-ndi-i-ka-a
+guno 'gu-u-no-o functional
+twalowooza 'twa-lo-o-wo-o-o-o-za-a
+gujja 'gu-u-jja-a functional
+kuba 'ku-u-ba-a functional
+muyabayaba 'mu-u-ya-ba-ya-ba-a
+kyatuyaamba 'kya-tu-u-ya-a-mba-a
+okumanya 'o-o-ku-u-ma-nya-a
+kyaali 'kya-a-li-i
+kyamugaso 'kya-mu-u-ga-so-o
+nnyo 'nnyo-o functional
+okugusasaanya 'o-o-ku-u-gu-u-sa-sa-a-nya-a
+jukiranga 'jju-u-kii-ra-nga-a
+okukituusa 'o-o-ku-u-kii-tu-u-u-u-sa-a
+muzukulu 'mu-u-zu-u-ku-u-lu-u
+omulala 'o-o-mu-u-la-la-a
+Okuyita 'o-o-ku-u-yi-i-ta-a
+kuwandiika 'ku-u-wa-ndi-i-i-i-ka-a
+kino 'kii-no-o functional
+twakirabamu 'twa-kii-ra-ba-mu-u
+omulamwa 'o-o-mu-u-la-mwa-a
+Kale 'ka-a-le functional
+ngagwe 'nga-gwe
+afunye 'a-a-fu-u-nye
+ekitabo 'e-e-kii-ta-bo-o
+nkusaba 'nku-u-sa-ba-a
+okukikuuma 'o-o-ku-u-kii-ku-u-u-u-ma-a
+kigende 'kii-ge-nde
+maaso 'ma-a-a-so-o
+pakka 'pa-a-kka-a functional
+ku 'ku-u functional
+bazukulubo 'ba-a-zu-u-ku-u-lu-u-bo-o
+nafuna 'na-a-fu-u-na-a
+endowooza 'e-e-ndo-o-wo-o-o-o-za-a
+Ekintu 'e-e-kii-ntu-u
+kino 'kii-no-o
+Okugeza 'o-o-ku-u-ge-za-a
+biseera 'bi-i-se-e-ra-a
+bino 'bi-i-no-o functional
+Abasiinga 'a-a-ba-si-i-i-i-nga-a
+bali 'ba-a-li-i functional
+masomero 'ma-a-so-o-me-ro-o
+ga 'ga-a functional
+bisulo 'bi-i-su-u-lo-o
+Abalala 'a-a-ba-la-la-a
+bali 'ba-a-li-i functional
+gwakupakasa 'gwa-ku-u-pa-ka-sa-a
+nsiimbi 'nsi-i-i-i-mbi-i
+Obudde 'o-o-bu-u-dde
+obutono 'o-o-bu-u-to-o-no-o
+bwe 'bwe functional
+baba 'ba-a-ba-a
+bafunyewo 'ba-a-fu-u-nye-wo-o
+babukozesa 'ba-a-bu-u-ko-o-ze-sa-a
+mukunyumya 'mu-u-ku-u-nyu-u-mya-a
+birala 'bi-i-ra-la-a
+omusomi 'o-o-mu-u-so-o-mi-i
+wange 'wa-a-nge
+faangayo 'fa-a-a-nga-yo-o
+okuwandiika 'o-o-ku-u-wa-ndi-i-i-i-ka-a
+Ssaabasajja 'ssa-a-ba-sajj-jja-a
+Kabaka 'ka-a-ba-ka-a
+awangaale 'a-a-wa-nga-a-le
+Naye 'na-a-ye functional
+bangi 'ba-a-ngi-i
+bawandiisi 'ba-a-wa-ndi-i-i-i-si-i
+nti 'nti-i functional
+ebika 'e-e-bi-i-ka-a
+byajja 'byajj-jja-a
+ngeri 'nge-ri-i
+zanjawulo 'za-an-jja-wu-u-lo-o
+wano 'wa-a-no-o
+Buganda 'bu-u-ga-nda-a
+Oluvanyuma 'o-o-lu-u-va-nyu-u-ma-a
+yakomawo 'ya-a-ko-o-ma-wo-o
+e 'e-e functional
+Ebifa 'e-e-bi-i-fa-a
+kitaawe 'kii-ta-a-we
+tebimanyiddwa 'te-e-bi-i-ma-nyi-i-ddwa-a
+Ente 'e-e-nte functional
+zaali 'za-a-a-li-i functional
+nnyiingi 'nnyi-i-i-i-ngi-i
+Tebaalwa 'te-e-ba-a-lwa-a
+bamutumya 'ba-a-mu-u-tu-u-mya-a
+Waliwo 'wa-a-li-i-wo-o
+ente 'e-e-nte functional
+enkuggu 'e-e-nku-u-ggu-u
+eno 'e-e-no-o functional
+eba 'e-e-ba-a functional
+terina 'te-e-ri-i-na-a
+mukira 'mu-u-kii-ra-a
+kuyita 'ku-u-yi-i-ta-a
+abalaguzibe 'a-a-ba-a-la-a-gu-u-zi-i-be
+bamuwe 'ba-a-mu-u-we
+magezi 'ma-a-ge-zi-i
+Bino 'bi-i-no-o functional
+bye 'bye functional
+bifo 'bi-i-fo-o
+ebikulu 'e-e-bi-i-ku-u-lu-u
+byebaasulamu 'bye-ba-a-su-u-la-mu-u
+baasula 'ba-a-a-su-u-la-a
+Kagabo 'ka-a-ga-a-bo-o
+abamu 'a-a-ba-a-mu-u
+webamwawukanirako 'we-e-ba-mwa-wu-u-ka-ni-i-ra-ko-o
+nebasigala 'ne-e-ba-si-i-ga-la-a
+awo 'a-a-wo-o functional
+baamannya 'ba-a-a-ma-a-nnya-a
+tekyaali 'te-e-kya-a-li-i
+muntu 'mu-u-ntu-u
+Awo 'a-a-wo-o functional
+amazina 'a-a-ma-a-zi-i-na-a
+negatandikwa 'ne-e-ga-ta-a-ndi-i-kwa-a
+okutyetyebulwa 'o-o-ku-u-tye-tye-bu-u-lwa-a
+Mu 'mu-u functional
+kiseera 'kii-se-e-ra-a
+twagwamu 'twa-gwa-mu-u
+ekirwadde 'e-e-kii-rwa-dde
+ekisonde 'e-e-kii-so-o-nde
+Ekirwadde 'e-e-kii-rwa-dde
+ebyembi 'e-e-bye-mbi-i
+kyakwata 'kya-kwa-ta-a
+Bantu 'ba-a-ntu-u
+abaali 'a-a-ba-a-a-li-i
+lusiisira 'lu-u-si-i-i-i-si-i-ra-a
+lwa 'lwa-a functional
+Namutale 'na-a-mu-u-ta-le
+kwefunira 'kwe-fu-u-ni-i-ra-a
+ekika 'e-e-kii-ka-a
+lugendo 'lu-u-ge-ndo-o
+lwaffe 'lwa-ffe
+Yamunyonyola 'ya-a-mu-u-nyo-o-nyo-o-la-a
+olugendo 'o-o-lu-u-ge-ndo-o
+lwonna 'lwo-o-nna-a functional
+baali 'ba-a-a-li-i
+lugendo 'lu-u-ge-ndo-o
+baagendanga 'ba-a-a-ge-nda-nga-a
+babuuzabuuza 'ba-a-bu-u-u-u-za-bu-u-u-u-za-a
+oba 'o-o-ba-a functional
+waliwo 'wa-a-li-i-wo-o
+eyali 'e-e-ya-li-i functional
+alabye 'a-a-la-a-bye
+Katongole 'ka-a-to-o-ngo-o-le
+abaganda 'a-a-ba-a-ga-a-nda-a
+be 'be-e functional
+baalikyuusa 'ba-a-a-li-i-kyu-u-u-u-sa-a
+baagala 'ba-a-a-ga-a-la-a
+okutereeza 'o-o-ku-u-te-re-e-za-a
+Ebanga 'e-e-ba-nga-a
+liyiseewo 'li-i-yi-i-se-e-wo-o
+netusiibula 'ne-e-tu-u-si-i-i-i-bu-u-la-a
+mukodomi 'mu-u-ko-o-do-o-mi-i
+waffe 'wa-a-ffe
+Mukasa 'mu-u-ka-sa-a
+Bulojje 'bu-u-lo-ojj-jje
+byaali 'bya-a-li-i functional
+byaamukosa 'bya-a-mu-u-ko-o-sa-a
+twali 'twa-li-i functional
+tujja 'tu-ujj-jja-a functional
+twagukira 'twa-gu-u-kii-ra-a
+kaalo 'ka-a-a-lo-o
+akayitibwa 'a-a-ka-a-yi-i-ti-i-bwa-a
+Buwanga 'bu-u-wa-nga-a
+lwali 'lwa-li-i functional
+olwo 'o-o-lwo-o functional
+wabaawo 'wa-a-ba-a-a-wo-o
+omulangira 'o-o-mu-u-la-ngi-i-ra-a
+bwakabaka 'bwa-ka-a-ba-a-ka-a
+ono 'o-o-no-o functional
+yawangula 'ya-a-wa-a-ngu-u-la-a
+bweyatuuka 'bwe-ya-tu-u-u-u-ka-a
+Enaku 'e-e-na-ku-u
+nnya 'nnya-a functional
+tezaalwa 'te-e-za-a-lwa-a
+nezituuka 'ne-e-zi-i-tu-u-u-u-ka-a
+baddayo 'ba-a-dda-yo-o
+fumbiro 'fu-u-mbi-i-ro-o
+kufumba 'ku-u-fu-u-mba-a
+kugoba 'ku-u-go-o-ba-a
+abaziba 'a-a-ba-a-zi-i-ba-a
+bonna 'bo-o-nna-a
+bamufumbira 'ba-a-mu-u-fu-u-mbi-i-ra-a
+Abaziba 'a-a-ba-a-zi-i-ba-a
+bamaze 'ba-a-ma-a-ze
+okugobwa 'o-o-ku-u-go-o-bwa-a
+kisakaate 'kii-sa-ka-a-a-te
+baakwatibwa 'ba-a-a-kwa-ti-i-bwa-a
+obuggya 'o-o-bu-u-ggya-a
+Ddamulira 'dda-mu-u-li-i-ra-a
+ababaka 'a-a-ba-a-ba-a-ka-a
+ebigambo 'e-e-bi-i-ga-mbo-o
+ebyabatumwa 'e-e-bya-ba-a-tu-u-mwa-a
+babituusa 'ba-a-bi-i-tu-u-u-u-sa-a
+bulungi 'bu-u-lu-u-ngi-i
+omulangira 'o-o-mu-u-la-ngi-i-ra-a
+newayitawo 'ne-e-wa-yi-i-ta-wo-o
+emyaka 'e-e-mya-ka-a
+Omusajja 'o-o-mu-u-sajj-jja-a
+omunaku 'o-o-mu-u-na-ku-u
+weyali 'we-e-ya-li-i
+attudde 'a-a-ttu-u-dde
+amaze 'a-a-ma-a-ze
+okuzaawuka 'o-o-ku-u-za-a-wu-u-ka-a
+wayise 'wa-a-yi-i-se
+emyezi 'e-e-mye-zi-i
+ebiri 'e-e-bi-i-ri-i
+abajjanga 'a-a-ba-ajj-jja-nga-a
+okumulaba 'o-o-ku-u-mu-u-la-ba-a
+bagamba 'ba-a-ga-a-mba-a
+tugenda 'tu-u-ge-nda-a
+akaalo 'a-a-ka-a-a-lo-o
+kafuna 'ka-a-fu-u-na-a
+erinnya 'e-e-ri-i-nnya-a
+waako 'wa-a-a-ko-o
+kwekusalawo 'kwe-ku-u-sa-la-a-wo-o
+okugenda 'o-o-ku-u-ge-nda-a
+anoonye 'a-a-no-o-o-o-nye
+awagazi 'a-a-wa-a-ga-a-zi-i
+wajjimu 'wa-ajj-jji-i-mu-u
+kaali 'ka-a-a-li-i
+kakalu 'ka-a-ka-a-lu-u
+emmere 'e-e-mme-re
+tedda 'te-e-dda-a
+Etaka 'e-e-ta-ka-a
+jjimu 'jjjji-i-mu-u
+ate 'a-a-te functional
+dungi 'du-u-ngi-i
+Omutala 'o-o-mu-u-ta-la-a
+guno 'gu-u-no-o functional
+gwali 'gwa-li-i functional
+guliraanye 'gu-u-li-i-ra-a-nye
+enyanja 'e-e-nyan-jja-a
+Lweru 'lwe-ru-u
+Nalubaale 'na-a-lu-u-ba-a-le
+kwekubategeeza 'kwe-ku-u-ba-te-ge-e-za-a
+tuzaawuse 'tu-u-za-a-wu-u-se
+tuzze 'tu-u-zze
+kika 'kii-ka-a functional
+kyaffe 'kya-ffe functional
+kutandika 'ku-u-ta-ndi-i-ka-a
+okunoonya 'o-o-ku-u-no-o-o-o-nya-a
+omukazi 'o-o-mu-u-ka-zi-i
+Obulombolombo 'o-o-bu-u-lo-o-mbo-o-lo-o-mbo-o
+bintu 'bi-i-ntu-u functional
+ebigobererwa 'e-e-bi-i-go-o-be-re-rwa-a
+bajjajjaffe 'ba-ajj-jjajj-jja-ffe
+ppaka 'ppa-ka-a functional
+bazukulu 'ba-a-zu-u-ku-u-lu-u
+Ebintu 'e-e-bi-i-ntu-u
+bino 'bi-i-no-o functional
+ziyiinza 'zi-i-yi-i-i-i-nza-a
+okuba 'o-o-ku-u-ba-a
+empisa 'e-e-mpi-i-sa-a
+emirimu 'e-e-mi-i-ri-i-mu-u
+Obumu 'o-o-bu-u-mu-u
+bulombolombo 'bu-u-lo-o-mbo-o-lo-o-mbo-o
+siga 'si-i-ga-a
+lyaffe 'lya-ffe
+mwe 'mwe functional
+muli 'mu-u-li-i
+tetulya 'te-e-tu-ul-ya-a
+nte 'nte functional
+nkuggu 'nku-u-ggu-u
+wadde 'wa-a-dde
+okunywa 'o-o-ku-u-nywa-a
+amata 'a-a-ma-a-ta-a
+gaayo 'ga-a-a-yo-o
+Omwezi 'o-o-mwe-zi-i
+bwegwabanga 'bwe-gwa-ba-a-nga-a
+gwakagabo 'gwa-ka-a-ga-a-bo-o
+tetulya 'te-e-tu-ul-ya-a
+kyaggulo 'kiya-ggu-u-lo-o
+Siinga 'si-i-i-i-nga-a
+gonja 'go-on-jja-a
+etooke 'e-e-to-o-o-o-ke
+lyassanga 'lya-ssa-nga-a
+telirina 'te-e-li-i-ri-i-na-a
+mpumumpu 'mpu-u-mu-u-mpu-u
+siga 'si-i-ga-a
+tetwabiryanga 'te-e-twa-bi-i-rya-nga-a
+tusobola 'tu-u-so-o-bo-o-la-a
+okubbula 'o-o-ku-u-bbu-u-la-a
+amannya 'a-a-ma-a-nnya-a
+tokitwala 'to-o-kii-twa-la-a
+bubi 'bu-u-bi-i
+wabula 'wa-a-bu-u-la-a
+tegeeza 'te-e-ge-e-za-a
+omukulu 'o-o-mu-u-ku-u-lu-u
+Yagenda 'ya-a-ge-nda-a
+muganga 'mu-u-ga-nga-a
+Omulambo 'o-o-mu-u-la-mbo-o
+gwe 'gwe
+neguziikibwa 'ne-e-gu-u-zi-i-i-i-kii-bwa-a
+Yaffa 'ya-a-ffa-a
+tazadde 'ta-a-za-a-dde
+mwana 'mwa-na-a
+muwuulu 'mu-u-wu-u-u-u-lu-u
+nyina 'nyi-i-na-a
+mukazi 'mu-u-ka-zi-i
+munyage 'mu-u-nya-ge
+Kyekuza 'kiye-ku-u-za-a
+agambibwa 'a-a-ga-a-mbi-i-bwa-a
+yazaala 'ya-a-za-a-a-la-a
+Ye 'ye-e
+teyawangaala 'te-e-ya-wa-a-nga-a-la-a
+mangu 'ma-a-ngu-u
+Olukiiko 'o-o-lu-u-kii-i-i-ko-o
+luno 'lu-u-no-o
+omulamwa 'o-o-mu-u-la-mwa-a
+gwaalwo 'gwa-a-lwo-o
+gwaali 'gwa-a-li-i
+gwa 'gwa-a
+kutereeza 'ku-u-te-re-e-za-a
+Nyiriri 'nyi-i-ri-i-ri-i
+bwetwaalaba 'bwe-twa-a-la-a-ba-a
+engeri 'e-e-nge-ri-i
+twajjamu 'twajj-jja-mu-u
+kumugoba 'ku-u-mu-u-go-o-ba-a
+nate 'na-a-te
+addeyo 'a-a-dde-yo-o
+Ekiseera 'e-e-kii-i-se-e-ra-a
+amaze 'a-a-ma-a-ze
+okuwa 'o-o-ku-u-wa-a
+Mukasa 'mu-u-ka-sa-a
+muwalawe 'mu-u-wa-la-a-we
+Kalima 'kia-a-li-i-ma-a
+Akunyumiza 'a-a-ku-u-nyu-u-mi-i-za-a
+gyeyagobwa 'gye-ya-go-o-bwa-a
+Bunyoro 'bu-u-nyo-o-ro-o
+Engeri 'e-e-nge-ri-i
+gyebagendamu 'gye-ba-ge-nda-mu-u
+Kiziba 'kii-i-zi-i-ba-a
+wamu 'wa-a-mu-u
+Anyonyola 'a-a-nyo-o-nyo-o-la-a
+ensikirano 'e-e-nsi-i-kii-ra-no-o
+ekirabo 'e-e-kii-i-ra-bo-o
+kyakawebwa 'kiya-ka-a-we-bwa-a
+basattu 'ba-a-sa-a-ttu-u
+abayambye 'a-a-ba-a-ya-amb-ye
+ennyo 'e-e-nnyo-o
+abagezi 'a-a-ba-a-ge-zi-i
+bengero 'be-e-nge-ro-o
+nokuziwandika 'no-o-ku-u-zi-i-wa-ndi-i-ka-a
+twagala 'twa-ga-a-la-a
+tutandikeyo 'tu-u-ta-ndi-i-ke-yo-o
+pulojekiti 'pu-u-lo-o-jje-kii-ti-i
+Bannakyalo 'ba-a-nna-kya-lo-o
+nabo 'na-a-bo-o
+basobola 'ba-a-so-o-bo-o-la-a
+okweyambisa 'o-o-kiwe-ya-mbi-i-sa-a
+Yintanenti 'yi-i-nta-ne-nti-i
+okwekulakulanya 'o-o-kiwe-ku-u-la-ku-u-la-nya-a
+byobulimi 'byo-o-bu-u-li-i-mi-i
+byobulamu 'byo-o-bu-u-la-mu-u
+ne 'ne-e
+byenfuna 'bye-nfu-u-na-a
+Wabula 'wa-a-bu-u-la-a
+okufuna 'o-o-ku-u-fu-u-na-a
+bulunzi 'bu-u-lu-u-nzi-i
+oteekeddwa 'o-o-te-e-ke-ddwa-a
+okubala 'o-o-ku-u-ba-la-a
+buli 'bu-u-li-i functional
+ssente 'sse-nte
+yonna 'yo-o-nna-a
+balina 'ba-a-li-i-na-a
+okulya 'o-o-ku-ul-ya-a
+Omulimi 'o-o-mu-u-li-i-mi-i
+ateekeddwa 'a-a-te-e-ke-ddwa-a
+omumaliririvu 'o-o-mu-u-ma-li-i-ri-i-ri-i-vu-u
+Okumanya 'o-o-ku-u-ma-nya-a
+tekukoma 'te-e-ku-u-ko-o-ma-a
+Olina 'o-o-li-i-na-a
+okufuna 'o-o-ku-u-fu-u-na-a
+wossa 'wo-o-ssa-a
+essira 'e-e-ssi-i-ra-a
+Byolima 'byo-o-li-i-ma-a
+byolunda 'byo-o-lu-u-nda-a
+biteekwa 'bi-i-te-e-kwa-a
+mutindo 'mu-u-ti-i-ndo-o
+Anti 'a-a-nti-i functional
+omu 'o-o-mu-u functional
+abiyaayanira 'a-a-bi-i-ya-a-ya-a-ni-i-ra-a
+Wateekwa 'wa-a-te-e-kwa-a
+okubaawo 'o-o-ku-u-ba-a-wo-o
+enkolagana 'e-e-nko-o-la-ga-a-na-a
+balimi 'ba-a-li-i-mi-i
+muwangana 'mu-u-wa-nga-na-a
+amagezi 'a-a-ma-a-ge-zi-i
+Obulimi 'o-o-bu-u-li-i-mi-i
+olina 'o-o-li-i-na-a
+okugifuula 'o-o-ku-u-gi-i-fu-u-u-u-la-a
+bizinensi 'bi-i-zi-i-ne-nsi-i
+nnyini 'nnyi-i-ni-i
+Obukugu 'o-o-bu-u-ku-u-gu-u
+buno 'bu-u-no-o functional
+bufunika 'bu-u-fu-u-ni-i-ka-a
+oluvanyuma 'o-o-lu-u-va-nyu-u-ma-a
+lwokuddingana 'lwo-o-ku-u-ddi-i-nga-na-a
+ebyo 'e-e-byo-o
+byokola 'byo-o-ko-o-la-a functional
+butuufu 'bu-u-tu-u-u-u-fu-u
+bwabyo 'bwa-byo-o
+ateekeddwa 'a-a-te-e-ke-ddwa-a
+omumaliririvu 'o-o-mu-u-ma-li-i-ri-i-ri-i-vu-u
+mulembe 'mu-u-le-mbe
+anagaggawala 'a-a-na-a-ga-a-gga-wa-a-la-a
+yoyo 'yo-o-yo-o functional
+analima 'a-a-na-a-li-i-ma-a
+ogwa 'o-o-gwa-a functional
+Yintaneti 'yi-i-nta-ne-ti-i
+ensi 'e-e-nsi-i
+yafuuka 'ya-a-fu-u-u-u-ka-a
+kyalo 'kiya-lo-o
+kimu 'kii-i-mu-u
+Omuntu 'o-o-mu-u-ntu-u
+omuntu 'o-o-mu-u-ntu-u
+asobolera 'a-a-so-o-bo-o-le-ra-a
+ddala 'dda-la-a functional
+okukola 'o-o-ku-u-ko-o-la-a
+ebintu 'e-e-bi-i-ntu-u
+bingi 'bi-i-ngi-i
+yeyambisa 'ye-e-ya-mbi-i-sa-a
+emikutu 'e-e-mi-i-ku-u-tu-u
+gya 'gya-a functional
+yintaneti 'yi-i-nta-ne-ti-i
+kunoonya 'ku-u-no-o-o-o-nya-a
+ffenna 'ffe-nna-a
+twenkana 'twe-nka-na-a
+tubeera 'tu-u-be-e-ra-a
+bayizi 'ba-a-yi-i-zi-i
+kityo 'kii-i-tyo-o
+oli 'o-o-li-i functional
+kibuga 'kii-i-bu-u-ga-a
+kasita 'kia-a-si-i-ta-a
+obeera 'o-o-be-e-ra-a
+osobola 'o-o-so-o-bo-o-la-a
+okugyeyambisa 'o-o-ku-u-gye-ya-mbi-i-sa-a
+okukuguka 'o-o-ku-u-ku-u-gu-u-ka-a
+ebyo 'e-e-byo-o functional
+byoyagala 'byo-o-ya-ga-a-la-a
+Obufumbo 'o-o-bu-u-fu-u-mbo-o
+kitegeza 'kii-i-te-ge-za-a
+abagalana 'a-a-ba-a-ga-a-la-a-na-a
+okutandika 'o-o-ku-u-ta-ndi-i-ka-a
+amaka 'a-a-ma-a-ka-a
+bamaze 'ba-a-ma-a-ze
+okweyanjula 'o-o-kiwe-yan-jju-u-la-a
+mubakadde 'mu-u-ba-ka-a-dde
+Ekiwandiiko 'e-e-kii-i-wa-ndi-i-i-i-ko-o
+nnkulakulanna 'nnku-u-la-ku-u-la-nna-a
+eya 'e-e-ya-a functional
+nnamaddala 'nna-ma-a-dda-la-a
+Ekiwandiiko 'e-e-kii-i-wa-ndi-i-i-i-ko-o
+kiyitiddwa 'kii-i-yi-i-ti-i-ddwa-a
+Ennkulakulanna 'e-enn-ku-u-la-ku-u-la-nna-a
+nnamaddala 'nna-ma-a-dda-la-a
+okuvira 'o-o-ku-u-vi-i-ra-a
+massomero 'ma-a-sso-o-me-ro-o
+gavumenti 'ga-a-vu-u-me-nti-i
+Gavumenti 'ga-a-vu-u-me-nti-i
+Omtindo 'o-om-ti-i-ndo-o
+ogukwatta 'o-o-gu-u-kwa-tta-a
+byennfunna 'byenn-fu-u-nna-a
+kikulu 'kii-i-ku-u-lu-u
+okusasannya 'o-o-ku-u-sa-sa-a-nnya-a
+ebyogerwa 'e-e-byo-o-ge-rwa-a
+eyannamaddala 'e-e-ya-nna-ma-a-dda-la-a
+enkoko 'e-e-nko-o-ko-o
+byebimu 'bye-bi-i-mu-u
+binyonyi 'bi-i-nyo-o-nyi-i
+byetuluunda 'bye-tu-u-lu-u-u-u-nda-a
+ewakka 'e-e-wa-kka-a
+zino 'zi-i-no-o functional
+zibeeramu 'zi-i-be-e-ra-mu-u
+empanga 'e-e-mpa-nga-a
+ensajja 'e-e-nsajj-jja-a
+nenkazi 'ne-e-nka-zi-i
+zinno 'zi-i-nno-o functional
+zilundibwa 'zi-i-lu-u-ndi-i-bwa-a
+olwemigaso 'o-o-lwe-mi-i-ga-so-o
+egyenjawulo 'e-e-gyen-jja-wu-u-lo-o
+kumma 'ku-u-mma-a
+emmotoka 'e-mmo-o-to-o-ka-a
+ennungi 'e-nnu-u-ngi-i
+nze 'nze functional
+nzekka 'nzeki-ka-a
+ndigula 'nddi-i-gu-u-la-a
+mmotoka 'mmo-o-to-o-ka-a
+yokka 'o-oki-ka-a
+soogera 'so-o-o-o-ge-ra-a
+nabaana 'na-a-ba-a-na-a
+bammwee 'ba-amm-we-e
+mukama 'mu-u-ka-ma-a
+katonda 'ka-a-to-ong-dda-a
+wammwe 'wa-amm-we
+mwekuumenga 'mwe-ku-u-u-u-meng-ga-a
+gwammwe 'gwamm-we
+guleme 'gu-u-le-me
+okulimbibwa 'o-o-ku-u-li-i-mbi-i-bwa-a
+temwonoona 'te-mwo-o-no-o-o-o-na-a
+mikisa 'mi-i-kii-i-sa-a
+abakristaayo 'a-a-ba-kiri-is-ta-a-o-o
+mukomye 'mu-u-kio-o-me
+okujajaamya 'o-o-ku-u-jja-jja-a-mya-a
+emibiri 'e-mi-i-bi-i-ri-i
+lumu 'lu-u-mu-u functional
+nnali 'ngna-li-i functional
+nva 'ngva-a functional
+ssomero 'sso-o-me-ro-o
+mukwano 'mu-u-kiwa-no-o
+gwange 'gwa-nge
+yampa 'ya-a-mpa-a
+ssigala 'ssi-i-ga-la-a
+mmunywa 'mmu-u-nwa-a
+mmunywa 'mmu-u-nwa-a
+nganywa 'ngga-nwa-a
+amazzi 'a-a-ma-zzi-i
+mmengo 'mme-ngo-o
+okwekulaakulanya 'o-o-kiwe-ku-u-la-a-ku-u-lang-ya-a
+ekutadde 'e-ku-u-tadd-dde
+kuzimba 'ku-u-zi-i-mba-a
+yange 'ya-a-nge functional
+abaagalana 'a-a-ba-a-ga-la-na-a
+mulidde 'mu-u-li-idd-dde
+emmese 'e-mme-se
+eyingidde 'e-i-i-ngi-idd-dde
+kituli 'kii-i-tu-u-li-i
+ettaala 'e-tta-a-la-a
+wansi 'wa-a-nsi-i
+mmeeza 'mme-e-za-a
+esooka 'e-so-o-o-o-ka-a
+ssaawa 'ssa-a-wa-a
+mmeka 'mme-ka-a
+enaku 'e-na-ku-u
+mmeka 'mme-ka-a
+n'awummulira 'nga-wu-u-mmu-u-li-i-ra-a
+lunaku 'lu-u-na-ku-u
+yawummuliramu 'ya-a-wu-u-mmu-u-li-i-ra-mu-u
+gyonna 'go-ong-na-a
+yatonda 'ya-a-to-ong-dda-a
+yakola 'ya-a-kio-o-la-a
+amaaso 'a-a-ma-a-so-o
+gammwe 'ga-amm-we
+galizibuka 'ga-a-li-i-zi-i-bu-u-ka-a
+onoobanga 'o-o-no-o-o-o-bang-ga-a
+mmomboze 'mmo-o-mbo-o-ze
+omutambuze 'o-o-mu-u-ta-mbu-u-ze
+Mmwe 'mmwe functional
+abakazi 'a-a-ba-ka-zi-i
+ba 'ba-a functional
+Lameka 'la-a-me-ka-a
+ejjiba 'ejj-jji-i-ba-a
+teryalaba 'te-rya-la-ba-a
+bbanga 'bbang-ga-a
+wa 'wa-a functional
+kuwummuza 'ku-u-wu-u-mmu-u-za-a
+ekigere 'e-kii-i-ge-re
+kyalyo 'kiya-lo-o
+N'ekitiibwa 'ne-kii-i-ti-i-i-i-bwa-a
+kyammwe 'kiyamm-we
+n'entiisa 'ne-nti-i-i-i-sa-a
+yammwe 'ya-amm-we
+binaabanga 'bi-i-nga-a-bang-ga-a
+nsolo 'nso-o-lo-o
+ey'ensi 'e-e-nsi-i
+ogw'obulamu 'o-o-gwo-o-bu-u-la-mu-u
+bwammwe 'bwamm-we
+ezzadde 'e-zzadd-dde
+lyammwe 'lyamm-we
+erinaddangawo 'e-ri-i-nadd-ddang-ga-wo-o
+awali 'a-a-wa-li-i functional
+omuvule 'o-o-mu-u-vu-u-le
+Mmoole 'mmo-o-o-o-le
+mmanyi 'mma-ni-i
+gw'oli 'gwo-o-li-i
+mulungi 'mu-u-lu-u-ngi-i
+okutunuulira 'o-o-ku-u-tu-u-nu-u-u-u-li-i-ra-a
+mmutwala 'mmu-u-twa-la-a
+wange 'wa-a-nge
+oleme 'o-o-le-me
+okwogera 'o-o-kiwo-o-ge-ra-a
+Mmugaggawazizza 'mmu-u-ga-gga-wa-zi-i-zza-a
+Ibulaamu 'i-i-bu-u-la-a-mu-u
+musajja 'mu-u-sajj-jja-a
+mummwe 'mu-umm-we
+anaakomolwanga 'a-a-nga-a-kio-o-mo-o-lwang-ga-a
+munaakomolwanga 'mu-u-nga-a-kio-o-mo-o-lwang-ga-a
+omubiri 'o-o-mu-u-bi-i-ri-i
+gw'ekikuta 'gwe-kii-i-ku-u-ta-a
+mmuwadde 'mmu-u-wadd-dde
+muwummulire 'mu-u-wu-u-mmu-u-li-i-re
+wansi 'wa-a-nsi-i
+w'omuti 'wo-o-mu-u-ti-i
+mutuuse 'mu-u-tu-u-u-u-se
+omuddu 'o-o-mu-udd-ddu-u
+mmaze 'mma-ze
+okukaddiwa 'o-o-ku-u-kadd-ddi-i-wa-a
+ndisanyuka 'nddi-i-sa-nu-u-ka-a
+kyennava 'kieng-na-va-a
+mmumanya 'mmu-u-mang-ya-a
+nnyumba 'nnu-u-mba-a
+ey'omuddu 'e-o-o-mu-udd-ddu-u
+mubakole 'mu-u-ba-kio-o-le
+ekirungi 'e-kii-i-ru-u-ngi-i
+wakola 'wa-a-kio-o-la-a
+ng'olina 'ngo-o-li-i-na-a
+omutima 'o-o-mu-u-ti-i-ma-a
+omutuukirivu 'o-o-mu-u-tu-u-u-u-kii-i-ri-i-vu-u
+si 'si-i functional
+mwana 'mwa-na-a
+wa 'wa-a functional
+mmange 'mma-nge
+mmugamba 'mmu-u-ga-mba-a
+mmuzaalidde 'mmu-u-za-a-li-idd-dde
+ow'obulenzi 'o-o-wo-o-bu-u-le-nzi-i
+ng'akaddiye 'nga-kadd-ddi-i-e
+obutaka 'o-o-bu-u-ta-ka-a
+yammwe 'ya-amm-we
+tewali 'te-wa-li-i
+ffe 'ffe functional
+agenda 'a-a-geng-dda-a
+okukumma 'o-o-ku-u-ku-u-mma-a
+entaana 'eng-ta-a-na-a
+ye 'e functional
+Ne 'ne functional
+mmubuuza 'mmu-u-bu-u-u-u-za-a
+njogera 'njjo-o-ge-ra-a
+Ggwe 'ggwe functional
+oli 'o-o-li-i functional
+mwana 'mwa-na-a
+w'ani 'wa-ni-i
+banakuwaza 'ba-a-na-ku-u-wa-za-a
+Isaaka 'i-i-sa-a-ka-a
+Lebbeeka 'le-bbe-e-ka-a
+emmeeme 'e-mme-e-me
+zaabwe 'za-a-a-bwe
+mmusabira 'mmu-u-sa-bi-i-ra-a
+mmuwadde 'mmu-u-wadd-dde
+okukufuganga 'o-o-ku-u-ku-u-fu-u-gang-ga-a
+ggwe 'ggwe functional
+mmujjaajabye 'mmu-ujj-jja-a-jja-be
+ekyandinfiisizzaako 'e-kiyand-di-i-nfi-i-i-i-si-i-zza-a-kio-o
+mmwembi 'mmwe-mbi-i
+olumu 'o-o-lu-u-mu-u functional
+mmuzaalidde 'mmu-u-za-a-li-idd-dde
+abaana 'a-a-ba-a-na-a
+ab'obulenzi 'a-a-bo-o-bu-u-le-nzi-i
+basatu 'ba-a-sa-tu-u
+n'ayogera 'nga-o-o-ge-ra-a
+Nze 'nze functional
+ndi 'nddi-i functional
+kifo 'kii-i-fo-o functional
+eyakumma 'e-ya-ku-u-mma-a
+ebibala 'e-bi-i-ba-la-a
+eby'olubuto 'e-bo-o-lu-u-bu-u-to-o
+Laakeeri 'la-a-a-kie-e-ri-i
+n'ayogera 'nga-o-o-ge-ra-a
+Mmegganye 'mme-gga-ne
+muganda 'mu-u-gang-dda-a
+wange 'wa-a-nge
+okumeggana 'o-o-ku-u-me-gga-na-a
+okw'amaanyi 'o-o-kiwa-ma-a-ni-i
+mmezze 'mme-zze
+mmuzaalidde 'mmu-u-za-a-li-idd-dde
+ab'obulenzi 'a-a-bo-o-bu-u-le-nzi-i
+mukaaga 'mu-u-ka-a-ga-a
+mumanyi 'mu-u-ma-ni-i
+naweerezanga 'na-a-we-e-re-zang-ga-a
+kitammwe 'kii-i-tamm-we
+n'amaanyi 'nga-ma-a-ni-i
+gange 'ga-a-nge
+gonna 'go-ong-na-a
+kitammwe 'kii-i-tamm-we
+yannimba 'ya-a-nni-i-mba-a
+Ddayo 'dddda-o-o
+y'ewammwe 'e-wamm-we
+mmutya 'mmu-u-tya-a
+ndyoka 'nddo-o-ka-a
+mmulaba 'mmu-u-la-ba-a
+ge 'ge functional
+Bye 'be functional
+nnina 'nni-i-na-a
+bimmala 'bi-i-mma-la-a
+omuwala 'o-o-mu-u-wa-la-a
+musajja 'mu-u-sajj-jja-a
+mummwe 'mu-umm-we
+okukomolebwanga 'o-o-ku-u-kio-o-mo-o-le-bwang-ga-a
+naffe 'na-a-ffe functional
+tunaawasanga 'tu-u-nga-a-wa-sang-ga-a
+abawala 'a-a-ba-wa-la-a
+bammwe 'ba-amm-we
+bamuziika 'ba-a-mu-u-zi-i-i-i-ka-a
+emmanga 'e-mmang-ga-a
+Mutume 'mu-u-tu-u-me
+munnammwe 'mu-ung-namm-we
+omu 'o-o-mu-u functional
+akime 'a-a-kii-i-me
+muganda 'mu-u-gang-dda-a
+mmunaasibibwa 'mmu-u-nga-a-si-i-bi-i-bwa-a
+baganda 'ba-a-gang-dda-a
+asibibwe 'a-a-si-i-bi-i-bwe
+nnyumba 'nnu-u-mba-a
+zammwe 'za-amm-we
+twalaba 'twa-la-ba-a
+emmeeme 'e-mme-e-me
+yanakuwala 'ya-a-na-ku-u-wa-la-a
+ekirimu 'e-kii-i-ri-i-mu-u
+omukka 'o-o-mu-uki-ka-a
+olw'ekkumi 'o-o-lweki-ku-u-mi-i
+n'omusanvu 'no-o-mu-u-sa-nvu-u
+kyali 'kiya-li-i functional
+kimaze 'kii-i-ma-ze
+n'azaala 'nga-za-a-la-a
+musanvu 'mu-u-sa-nvu-u
+okwonoona 'o-o-kiwo-o-no-o-o-o-na-a
+ekkubo 'eki-ku-u-bo-o
+lyakyo 'lya-kio-o
+biyingira 'bi-i-i-i-ngi-i-ra-a
+Nuuwa 'nu-u-u-u-wa-a
+lyato 'lya-to-o
+nnyama 'nngya-ma-a
+Yonna 'o-ong-na-a
+erimu 'e-ri-i-mu-u
+Emikono 'e-mmi-i-kio-o-no-o
+kkumi 'kiku-u-mi-i
+n'etaa 'ne-ta-a-a
+no 'no-o functional
+gaayinza 'ga-a-a-i-ing-za-a
+ebyalimu 'e-bya-li-i-mu-u
+ogw'omwoyo 'o-o-gwo-omm-wo-o-o-o
+nnyindo 'nni-ind-do-o
+zaabyo 'za-a-a-bo-o
+n'asigalawo 'nga-si-i-ga-la-wo-o
+yekka 'eki-ka-a
+lunaku 'lu-u-na-ku-u
+babikka 'ba-a-bi-iki-ka-a
+nsonyi 'nso-o-ni-i
+kitaabwe 'kii-i-ta-a-bwe
+entikko 'e-nti-iki-kio-o
+yaakyo 'ya-a-a-kio-o
+aliwalaturwa 'a-a-li-i-wa-la-tu-u-rwa-a
+mwenda 'mmweng-dda-a
+omukono 'o-o-mu-u-kio-o-no-o
+mukono 'mu-u-kio-o-no-o
+Ohanga 'o-o-ang-ga-a
+Kayini 'ka-a-i-i-ni-i
+Mukama 'mu-u-ka-ma-a
+kkono 'kikio-o-no-o
+n'akka 'ngaki-ka-a
+ebibuga 'e-bi-i-bu-u-ga-a
+tukke 'tu-uki-kie
+baleme 'ba-a-le-me
+okutegeera 'o-o-ku-u-te-ge-e-ra-a
+eggwanga 'e-ggwang-ga-a
+eajogera 'e-'a-a-jjo-o-ge-ra-a
+yaabwe 'ya-a-a-bwe
+bokka 'bo-oki-ka-a
+baawukana 'ba-a-a-wu-u-ka-na-a
+n'ebiri 'ne-bi-i-ri-i
+babagoberera 'ba-a-ba-go-o-be-re-ra-a
+Kkoba 'kikio-o-ba-a
+ekiri 'e-kii-i-ri-i
+ow'ohulenzi 'o-o-wo-o-u-u-le-nzi-i
+ow'ohulenzi 'o-o-wo-o-u-u-le-nzi-i
+n'amutuuma 'nga-mu-u-tu-u-u-u-ma-a
+Lewubeni 'le-wu-u-be-ni-i
+obanga 'o-o-bang-ga-a
+yabbibwanga 'ya-a-bbi-i-bwang-ga-a
+misana 'mmi-i-sa-na-a
+yabhibwanga 'ya-a-bi-i-bwang-ga-a
+Falaawo 'fa-a-la-a-wo-o
+n'agamba 'nga-ga-mba-a
+abaddu 'a-a-badd-ddu-u
+w'e 'we functional
+Tappua 'ta-a-ppu-u-a-a
+Yanimu 'ya-a-ni-i-mu-u
+Besutappua 'be-su-u-ta-ppu-u-a-a
+Tuliyinza 'tu-u-li-i-i-ing-za-a
+ohulaba 'o-o-u-u-la-ba-a
+omusajja 'o-o-mu-u-sajj-jja-a
+afaanana 'a-a-fa-a-na-na-a
+ng'oyo 'ngo-o-o-o functional
+bahutama 'ba-a-u-u-ta-ma-a
+basinza 'ba-a-si-ing-za-a
+hanaateekateekanga 'a-a-nga-a-te-e-ka-te-e-kang-ga-a
+Isiraeri 'i-i-si-i-ra-e-ri-i
+haakiraba 'a-a-'a-a-kii-i-ra-ba-a
+bagambagana 'ba-a-ga-mba-ga-na-a
+kiki 'kii-i-kii-i
+Lwaki 'lwa-kii-i
+wehka 'we-'ka-a
+otudde 'o-o-tu-udd-dde
+muliraanwa 'mu-u-li-i-ra-ang-wa-a
+higambo 'i-i-ga-mbo-o
+ensalo 'eng-sa-lo-o
+n'eyita 'ne-i-i-ta-a
+luuyi 'lu-u-u-u-i-i
+olw'ebugwanjuba 'o-o-lwe-bu-u-gwan-jju-u-ba-a
+n'etuuka 'ne-tu-u-u-u-ka-a
+kumugga 'ku-u-mu-u-gga-a
+Kana 'ka-a-na-a
+Entappua 'eng-ta-ppu-u-a-a
+Omukazi 'o-o-mu-u-ka-zi-i
+Lappidosi 'la-a-ppi-i-ddo-o-si-i
+yali 'ya-a-li-i
+atikkide 'a-a-ti-iki-kii-i-dde
+seppewo 'se-ppe-wo-o
+olubatu 'o-o-lu-u-ba-tu-u
+ppipa 'ppi-i-pa-a
+batabani 'ba-a-ta-ba-ni-i
+Nadabu 'na-a-dda-bu-u
+Seredi 'se-re-ddi-i
+Appayimu 'a-a-ppa-i-i-mu-u
+Suppimu 'su-u-ppi-i-mu-u
+Kuppimu 'ku-u-ppi-i-mu-u
+Iri 'i-i-ri-i
+Sibbekayi 'si-i-bbe-ka-i-i
+Omukusasi 'o-o-mu-u-ku-u-sa-si-i
+n'atta 'nga-tta-a
+Sippayi 'si-i-ppa-i-i
+amalala 'a-a-mma-la-la-a
+Osunappali 'o-o-su-u-na-ppa-li-i
+Kerenukappuki 'kie-re-nu-u-ka-ppu-u-kii-i
+ppamba 'ppa-mba-a
+Bibenga 'bi-i-beng-ga-a
+ng'ettabaaza 'nge-tta-ba-a-za-a
+ery'eggulu 'e-re-ggu-u-lu-u
+n'akola 'nga-kio-o-la-a
+n'ettaka 'ne-tta-ka-a
+ey'omu 'e-o-o-mu-u
+nsiko 'nsi-i-kio-o
+lw'olidda 'lwo-o-li-idd-dda-a
+ttaka 'tta-ka-a
+alimenga 'a-a-li-i-meng-ga-a
+yaggibwa 'ya-a-ggi-i-bwa-a
+n'amutta 'nga-mu-u-tta-a
+n'ateeka 'nga-te-e-ka-a
+akabonero 'a-a-ka-bo-o-ne-ro-o
+amulaba 'a-a-mu-u-la-ba-a
+alemenga 'a-a-le-meng-ga-a
+okumutta 'o-o-ku-u-mu-u-tta-a
+Kubanga 'ku-u-bang-ga-a
+natta 'na-a-tta-a
+yamutta 'ya-a-mu-u-tta-a
+ndisangula 'nddi-i-sa-ngu-u-la-a
+ekiramu 'e-kii-i-ra-mu-u
+nnakola 'ngna-kio-o-la-a
+kiramu 'kii-i-ra-mu-u
+ekyali 'e-kiya-li-i
+kungulu 'ku-u-ngu-u-lu-u
+Lutti 'lu-u-tti-i
+Ibulaamu 'i-i-bu-u-la-a-mu-u
+Wabeewo 'wa-a-be-e-wo-o
+ebyaka 'e-bya-ka-a
+ng'ettabaaza 'nge-tta-ba-a-za-a
+ezitali 'e-zi-i-ta-li-i
+nongoofu 'no-o-ngo-o-o-o-fu-u
+ejjiba 'ejj-jji-i-ba-a
+teryalaba 'te-rya-la-ba-a
+kuwummuza 'ku-u-wu-u-mmu-u-za-a
+empewo 'emm-pe-wo-o
+n'ebbugumu 'ne-bbu-u-gu-u-mu-u
+egiri 'e-gi-i-ri-i
+Kebbulooni 'kie-bbu-u-lo-o-o-o-ni-i
+balwana 'ba-a-lwa-na-a
+Bbeera 'bbe-e-ra-a
+Omwebbulaniya 'o-omm-we-bbu-u-la-ni-i-ya-a
+bba 'bba-a
+nnabbi 'ngna-bbi-i
+kitaawo 'kii-i-ta-a-wo-o
+ffe 'ffe
+okusula 'o-o-ku-u-su-u-la-a
+Labbaani 'la-a-bba-a-ni-i
+ali 'a-a-li-i
+go 'go-o functional
+cbibala 'i-bi-i-ba-la-a
+by'ettaka 'be-tta-ka-a
+okubiwaayo 'o-o-ku-u-bi-i-wa-a-o-o
+omukungu 'o-o-mu-u-ku-u-ngu-u
+Zecra 'ze-'i-ra-a
+balcola 'ba-a-'li-o-o-la-a
+obubi 'o-o-bu-u-bi-i
+Bw'otyo 'bwo-o-to-o
+bw'onoolcolanga bwo-o-no-o-o-o-'li-o-o-lang-ga-a
+abaakamaze 'a-a-ba-a-ka-ma-ze
+emyalca 'emm-ya-'li-a-a
+n'okukirawo 'no-o-ku-u-kii-i-ra-wo-o
+okukolanga 'o-o-ku-u-kio-o-lang-ga-a
+omulimu 'o-o-mu-u-li-i-mu-u
+ogw'ewcema 'o-o-gwe-'wi-e-ma-a
+ey'okusisinkanirangamu 'e-o-o-ku-u-si-i-si-ing-ka-ni-i-rang-ga-mu-u
+b'endiga 'bend-di-i-ga-a
+abalume 'a-a-ba-lu-u-me
+bacaano 'ba-a-'i-a-a-no-o
+abatannamala 'a-a-ba-tang-na-ma-la-a
+okucuusa 'o-o-ku-u-'i-u-u-u-u-sa-a
+ekulukuta 'e-ku-u-lu-u-ku-u-ta-a
+n'amaca nga-mma-'i-a-a
+n'omubisi 'no-o-mu-u-bi-i-si-i
+gw'enjuki 'gwen-jju-u-kii-i
+Samwiri 'sa-a-mwi-i-ri-i
+n'addira 'ngadd-ddi-i-ra-a
+eccupa 'e-'i-'i-u-u-pa-a
+y'amafuta 'a-mma-fu-u-ta-a
+n'agafuka 'nga-ga-fu-u-ka-a
+mutwe 'mu-u-twe
+Weesibe 'we-e-si-i-be
+ekimyu 'e-kii-i-mu-u
+otwale 'o-o-twa-le
+Olyoke 'o-o-lo-o-kie
+oddire 'o-odd-ddi-i-re
+Ng'omucungwa ngo-o-mu-u-'i-u-ung-wa-a
+miti 'mmi-i-ti-i
+egy'omu 'e-go-o-mu-u
+kibira 'kii-i-bi-i-ra-a
+mutidde 'mu-u-ti-idd-dde
+eribacoccera 'e-ri-i-ba-'i-o-o-'i-'i-e-ra-a
+ekitala 'e-kii-i-ta-la-a
+kirikucocca kii-i-ri-i-ku-u-'i-o-o-'i-'i-a-a
+Bancoccedde 'ba-a-'ni-o-o-'i-'i-edd-dde
+Batucoccera 'ba-a-tu-u-'i-o-o-'i-'i-e-ra-a
+Abatucocca 'a-a-ba-tu-u-'i-o-o-'i-'i-a-a
+batuuse 'ba-a-tu-u-u-u-se
+nsingo 'nsi-i-ngo-o
+zaffe 'za-a-ffe
+batwala 'ba-a-twa-la-a
+amafuta 'a-a-mma-fu-u-ta-a
+macupa 'mma-a-'i-u-u-pa-a
+gaabwe 'ga-a-a-bwe
+n'awulira 'nga-wu-u-li-i-ra-a
+evvumbe 'e-vvu-u-mbe
+eddungi 'edd-ddu-u-ngi-i
+ngezezza 'nge-ze-zza-a
+newakubadde 'ne-wa-ku-u-badd-dde
+nfuufu 'nfu-u-u-u-fu-u
+bu 'bu-u functional
+fuufu 'fu-u-u-u-fu-u
+n'evvu 'ne-vvu-u
+embi 'emm-bi-i
+enkovvu 'e-nki-o-o-vvu-u
+ennafu 'eng-na-fu-u
+batwala 'ba-a-twa-la-a
+evvu 'e-vvu-u
+olikola 'o-o-li-i-kio-o-la-a
+entamu 'eng-ta-mu-u
+zaakyo 'za-a-a-kio-o
+ez'okutwaliramu 'e-zo-o-ku-u-twa-li-i-ra-mu-u
+wo 'wo-o functional
+bw'akukangavvula 'bwa-ku-u-kang-ga-vvu-u-la-a
+soogera 'so-o-o-o-ge-ra-a
+aa 'a-a-'a-a functional
+baana 'ba-a-a-na-a
+abatannamanya 'a-a-ba-tang-na-mang-ya-a
+abatannalaba 'a-a-ba-tang-na-la-ba-a
+kukangavvula 'ku-u-kang-ga-vvu-u-la-a
+Avvimu 'a-a-vvi-i-mu-u
+ziyitawo 'zi-i-i-i-ta-wo-o
+balemwa 'ba-a-le-mwa-a
+okuvvuunula 'o-o-ku-u-vvu-u-u-u-nu-u-la-a
+ekikokko 'e-kii-i-kio-oki-kio-o
+Temwandivvuunudde 'te-mwand-di-i-vvu-u-u-u-nu-udd-dde
+kikokko 'kii-i-kio-oki-kio-o
+kyange 'kiya-nge
+abavvuunula 'a-a-ba-vvu-u-u-u-nu-u-la-a
+kitange 'kii-i-ta-nge
+yabakangavvula 'ya-a-ba-kang-ga-vvu-u-la-a
+ndibakangavvula 'nddi-i-ba-kang-ga-vvu-u-la-a
+Laba 'la-a-ba-a
+aweereddwa 'a-a-we-e-redd-ddwa-a
+mukisa 'mu-u-kii-i-sa-a
+gw'akangavvula 'gwa-kang-ga-vvu-u-la-a
+abisse 'a-a-bi-i-sse
+obugevvu 'o-o-bu-u-ge-vvu-u
+N'obukovvu 'no-o-bu-u-kio-o-vvu-u
+bwange 'bwa-nge
+bungolokokerako 'bu-u-ngo-o-lo-o-kio-o-kie-ra-kio-o
+nkangavvulwa 'ngkang-ga-vvu-u-lwa-a
+nkya 'nki-ya-a
+Kangavvulanga 'ka-ang-ga-vvu-u-lang-ga-a
+wo 'wo-o functional
+Abafirisuuti 'a-a-ba-fi-i-ri-i-su-u-u-u-ti-i
+bacocca 'ba-a-'i-o-o-'i-'i-a-a
+Sawulo 'sa-a-wu-u-lo-o
+amagaali 'a-a-mma-ga-a-li-i
+n'abeebagala 'nga-be-e-ba-ga-la-a
+embalaasi 'emm-ba-la-a-si-i
+bamucocca 'ba-a-mu-u-'i-o-o-'i-'i-a-a
+babacocca 'ba-a-ba-'i-o-o-'i-'i-a-a
+Onoococca 'o-o-no-o-o-o-'i-o-o-'i-'i-a-a
+essubi 'e-ssu-u-bi-i
+eritwalibwa 'e-ri-i-twa-li-i-bwa-a
+empewo 'emm-pe-wo-o
+n'enjala 'neng-jja-la-a
+mutidde 'mu-u-ti-idd-dde
+eribacoccera 'e-ri-i-ba-'i-o-o-'i-'i-e-ra-a
+Bacocca 'ba-a-'i-o-o-'i-'i-a-a
+ebisinde 'e-bi-i-si-ind-de
+byaffe 'bya-ffe
+n'omusaayi 'no-o-mu-u-sa-a-i-i
+gulikucocca 'gu-u-li-i-ku-u-'i-o-o-'i-'i-a-a
+tewakyawa 'te-wa-kiya-wa-a
+Musaayi 'mu-u-sa-a-i-i
+amusaayi 'a-a-mu-u-sa-a-i-i
+kyeguliva 'kie-gu-u-li-i-va-a
+gukucocca 'gu-u-ku-u-'i-o-o-'i-'i-a-a
+yamanya 'ya-a-mang-ya-a
+ng'atudde 'nga-tu-udd-dde
+mmere 'mmmme-re
+ey'Omufalisaayo 'e-o-o-mu-u-fa-li-i-sa-a-o-o
+Singa 'si-ing-ga-a
+abadde 'a-a-badd-dde
+yanditegedde 'ya-and-di-i-te-gedd-dde
+amukwatako 'a-a-mu-u-kiwa-ta-kio-o
+bw'ali 'bwa-li-i
+bw'afaanana 'bwa-fa-a-na-na-a
+ng'alina 'nga-li-i-na-a
+ebibi 'e-bi-i-bi-i
+ng'asiga 'nga-si-i-ga-a
+ng'abeera 'nga-be-e-ra-a
+ntaana 'ngta-a-na-a
+yasibibwanga 'ya-a-si-i-bi-i-bwang-ga-a
+njegere 'njje-ge-re
+masamba 'mma-a-sa-mba-a
+ng'akuumibwa 'nga-ku-u-u-u-mi-i-bwa-a
+bajja 'ba-ajj-jja-a
+Yesu 'e-su-u
+balaba 'ba-a-la-ba-a
+eyavuddeko 'e-ya-vu-udd-dde-kio-o
+badayimooni 'ba-a-dda-i-i-mo-o-o-o-ni-i
+ng'atudde 'nga-tu-udd-dde
+awali 'a-a-wa-li-i
+ebigere 'e-bi-i-ge-re
+ng'ayambadde 'nga-ya-mbadd-dde
+olugoye 'o-o-lu-u-go-o-e
+ng'okutegeera 'ngo-o-ku-u-te-ge-e-ra-a
+kumuzzeemu 'ku-u-mu-u-zze-e-mu-u
+ng'agenda 'nga-geng-dda-a
+n'ajja 'ngajj-jja-a
+ng'akankana 'nga-kang-ka-na-a
+n'amufukaamirira 'nga-mu-u-fu-u-ka-a-mi-i-ri-i-ra-a
+n'amubuulira 'nga-mu-u-bu-u-u-u-li-i-ra-a
+g'abantu 'ga-ba-ntu-u
+bw'eri 'bwe-ri-i
+baama 'ba-a-a-ma-a
+nya 'ngya-a functional
+ng'afudde 'nga-fu-udd-dde
+n'amukwata 'nga-mu-u-kiwa-ta-a
+n'ayogerera 'nga-o-o-ge-re-ra-a
+ng'agamba 'nga-ga-mba-a
+Omuwala 'o-o-mu-u-wa-la-a
+golokoka 'go-o-lo-o-kio-o-ka-a
+abasajja 'a-a-ba-sajj-jja-a
+ng'enkumi 'nge-nku-u-mi-i
+ttaano 'tta-a-no-o
+Awo 'a-a-wo-o functional
+olwatuuka 'o-o-lwa-tu-u-u-u-ka-a
+ng'asaba 'nga-sa-ba-a
+onootambuzanga 'o-o-no-o-o-o-ta-mbu-u-zang-ga-a
+onoolyauga 'o-o-no-o-o-ol-ya-u-u-ga-a
+enfuufu 'e-nfu-u-u-u-fu-u
+ennaku 'eng-na-ku-u
+zonoa 'zo-o-ngo-o-a-a
+ez'obulamu 'e-zo-o-bu-u-la-mu-u
+bwo 'bwo-o functional
+oli 'o-o-li-i functional
+ku'banga 'ku-u-'ba-ang-ga-a
+yanfumita 'ya-a-nfu-u-mi-i-ta-a
+ndifuula 'nddi-i-fu-u-u-u-la-a
+n'ezzadde 'ne-zzadd-dde
+lyo 'lo-o functional
+ng'enfuufu 'nge-nfu-u-u-u-fu-u
+ey'okunsi 'e-o-o-ku-u-nsi-i
+akabi 'a-a-ka-bi-i
+kaleme 'ka-a-le-me
+okuntuukako 'o-o-ku-u-ntu-u-u-u-ka-kio-o
+nfa 'ngfa-a functional
+ekyandinfiisizzaako 'e-kiyand-di-i-nfi-i-i-i-si-i-zza-a-kio-o
+olumu 'o-o-lu-u-mu-u
+nfune 'nfu-u-ne
+nfumiitirizza 'nfu-u-mi-i-i-i-ti-i-ri-i-zza-a
+kaakano 'ka-a-a-ka-no-o
+nfuuse 'nfu-u-u-u-se
+ebibiina 'e-bi-i-bi-i-i-i-na-a
+yanfuula 'ya-a-nfu-u-u-u-la-a
+n'anfaako 'ngang-fa-a-kio-o
+Kanani 'ka-a-na-ni-i
+kkubo 'kiku-u-bo-o
+Anaaleetanga 'a-a-nga-a-le-e-tang-ga-a
+enva 'eng-va-a
+ennungi 'e-nnu-u-ngi-i
+Abamisiri 'a-a-ba-mi-i-si-i-ri-i
+bamala 'ba-a-ma-la-a
+nsanvu 'ngsa-nvu-u
+bakumye 'ba-a-ku-u-me
+olumbe 'o-o-lu-u-mbe
+n'akisiiga 'nga-kii-i-si-i-i-i-ga-a
+ebitosi 'e-bi-i-to-o-si-i
+n’envumbo 'ne-nvu-u-mbo-o
+Abo 'a-a-bo-o functional
+beegattira 'be-e-ga-tti-i-ra-a
+kiwonvu 'kii-i-wo-o-nvu-u
+Sidimu 'si-i-ddi-i-mu-u
+ekiwonvu 'e-kii-i-wo-o-nvu-u
+kjjudde 'jjkijju-udd-dde
+obunnya 'o-o-bu-unn-gya-a
+n'akima 'nga-kii-i-ma-a
+ennyana 'enn-gya-na-a
+ennonvu 'e-nno-o-nvu-u
+ennungi 'e-nnu-u-ngi-i
+onooziweebwa 'o-o-no-o-o-o-zi-i-we-e-bwa-a
+gwange 'gwa-nge
+Abaddu 'a-a-badd-ddu-u
+Isaaka 'i-i-sa-a-ka-a
+basima 'ba-a-si-i-ma-a
+Leeya 'le-e-ya-a
+gaali 'ga-a-a-li-i
+magonvu 'mma-a-go-o-nvu-u
+enjuba 'en-jju-u-ba-a
+n'omwezi 'no-omm-we-zi-i
+n'emmunnyeenye 'nemm-mu-u-nne-e-ne
+ekkumi 'eki-ku-u-mi-i
+n'emu 'ne-mu-u
+binvuunamira 'bi-i-nvu-u-u-u-na-mi-i-ra-a
+Amaanyi 'a-a-mma-a-ni-i
+gange 'ga-a-nge
+gampweddemu 'ga-amp-wedd-dde-mu-u
+olw'okwonoona 'o-o-lwo-o-kiwo-o-no-o-o-o-na-a
+kwange 'kiwa-nge
+Omubiri 'o-o-mu-u-bi-i-ri-i
+gwange 'gwa-nge
+n'omutima 'no-o-mu-u-ti-i-ma-a
+bimpwako 'bi-imp-wa-kio-o
+Oba 'o-o-ba-a functional
+kirpwanidde 'kii-ir-pwa-ni-idd-dde
+gampweddemu 'ga-amp-wedd-dde-mu-u
+byawulirwa 'bya-wu-u-li-i-rwa-a
+Dawudi 'dda-a-wu-u-ddi-i
+yayogera 'ya-a-o-o-ge-ra-a
+he 'e
+babyogerera 'ba-a-bo-o-ge-re-ra-a
+abaasooka 'a-a-ba-a-so-o-o-o-ka-a
+okubeera 'o-o-ku-u-be-e-ra-a
+bifo 'bi-i-fo-o
+bakahena 'ba-a-ka-a-e-na-a
+He 'e
+kitugwanira 'kii-i-tu-u-gwa-ni-i-ra-a
+Okukola 'o-o-ku-u-kio-o-la-a
+yayogereranga 'ya-a-o-o-ge-re-rang-ga-a
+kamwa 'ka-a-mwa-a
+bannabbi 'ba-ang-na-bbi-i
+abatukuvu 'a-a-ba-tu-u-ku-u-vu-u
+abaaliwo 'a-a-ba-a-li-i-wo-o
+luhereberye 'lu-u-e-re-be-re
+Kyenva 'kieng-va-a
+mbeegayirira 'mmbe-e-ga-i-i-ri-i-ra-a
+okungohereranga 'o-o-ku-u-ngo-o-e-re-rang-ga-a
+wasonyiwanga 'wa-a-so-o-ni-i-wang-ga-a
+gujwa 'gu-u-jjwa-a
+bakwata 'ba-a-kiwa-ta-a
+bakatonda 'ba-a-ka-to-ong-dda-a
+abalala 'a-a-ba-la-la-a
+babasinza 'ba-a-ba-si-ing-za-a
+babajweereza 'ba-a-ba-jjwe-e-re-za-a
+mujjwa 'mu-ujj-jjwa-a
+Balunabba 'ba-a-lu-u-na-bba-a
+n'ayokya 'nga-o-o-kiya-a
+omugaati 'o-o-mu-u-ga-a-ti-i
+ogutazimbulukuswa 'o-o-gu-u-ta-zi-i-mbu-u-lu-u-ku-u-swa-a
+Bessweri 'be-sswe-ri-i
+n'azaala 'nga-za-a-la-a
+olwaruuse 'o-o-lwa-ru-u-u-u-se
+bw'swulidde 'bwswu-u-li-idd-dde
+nnyimusa 'nni-i-mu-u-sa-a
+eddoboozi 'edd-ddo-o-bo-o-o-o-zi-i
+lyange 'lya-nge
+nkoowoola 'nki-o-o-o-o-wo-o-o-o-la-a
+Ennaku 'eng-na-ku-u
+mulirya 'mu-u-li-i-rya-a
+emigaati 'e-mmi-i-ga-a-ti-i
+egitazimbulukuswa 'e-gi-i-ta-zi-i-mbu-u-lu-u-ku-u-swa-a
+Musa 'mu-u-sa-a
+n'agamba 'nga-ga-mba-a
+Yoswa 'o-o-swa-a
+Otulondere 'o-o-tu-u-lo-ond-de-re
+n'enswaswa 'nens-wa-swa-a
+n'omunya 'no-o-mu-ung-ya-a
+n'ekkonkomi 'neki-kio-o-nki-o-o-mi-i
+nnawolovu 'ngna-wo-o-lo-o-vu-u
+abatali 'a-a-ba-ta-li-i
+bakomole 'ba-a-kio-o-mo-o-le
+abo 'a-a-bo-o functional
+baleme 'ba-a-le-me
+okujja 'o-o-ku-ujj-jja-a
+banfumita 'ba-a-nfu-u-mi-i-ta-a
+banswaza 'ba-ans-wa-za-a
+Oswazizza 'o-o-swa-zi-i-zza-a
+leero 'le-e-ro-o
+teyafisswo 'te-ya-fi-i-sswo-o
+n'omukubo
+Akaswero 'a-a-ka-swe-ro-o
+nneme 'nne-me
+okuswazibwanga 'o-o-ku-u-swa-zi-i-bwang-ga-a
+emirembe 'e-mmi-i-re-mbe
+abaliraanwa 'a-a-ba-li-i-ra-ang-wa-a
+Otufuula 'o-o-tu-u-fu-u-u-u-la-a
+oluyombo 'o-o-lu-u-o-o-mbo-o
+baliraanwa 'ba-a-li-i-ra-ang-wa-a
+Togambanga 'to-o-ga-mbang-ga-a
+muliraanwa 'mu-u-li-i-ra-ang-wa-a
+wo 'wo-o functional
+akuli 'a-a-ku-u-li-i
+okumpi 'o-o-ku-u-mpi-i
+nwunama 'nwu-u-na-ma-a
+kabona 'ka-a-bo-o-na-a
+tanywanga 'ta-a-nwang-ga-a
+nwenge 'nwe-nge
+bayingira 'ba-a-i-i-ngi-i-ra-a
+Obwenzi 'o-o-bwe-nzi-i
+n'onwenge 'no-o-nwe-nge
+n'omwenge 'no-omm-we-nge
+Balimutuuma 'ba-a-li-i-mu-u-tu-u-u-u-ma-a
+Emmanweri 'emm-ma-nwe-ri-i
+Okufumbirganwa 'o-o-ku-u-fu-u-mbi-ir-gang-wa-a
+n'okwawukana 'no-o-kiwa-wu-u-ka-na-a
+ebimuvunaanwa 'e-bi-i-mu-u-vu-u-nga-ang-wa-a
+ebizibu 'e-bi-i-zi-i-bu-u
+kirungi 'kii-i-ru-u-ngi-i
+okufumbiriganwanga 'o-o-ku-u-fu-u-mbi-i-ri-i-gang-wang-ga-a
+mpya 'mmpya-a
+Isiiaeri 'i-i-si-i-i-i-a-e-ri-i
+yeegatta 'e-e-ga-tta-a
+Baalipyoli 'ba-a-a-li-i-po-o-li-i
+tutuula 'tu-u-tu-u-u-u-la-a
+kiwonvu 'kii-i-wo-o-nvu-u
+ekyolekera 'e-kio-o-le-kie-ra-a
+Besupyoli 'be-su-u-po-o-li-i
+Esiyoopya 'e-si-i-o-o-o-o-pya-a
+Laba 'la-a-ba-a
+alizimba 'a-a-li-i-zi-i-mba-a
+ennyumba 'e-nnu-u-mba-a
+n'empya 'nemm-pya-a
+eby'empya 'e-bemm-pya-a
+ez'ennyumba 'e-ze-nnu-u-mba-a
+fe 'fe functional
+okuyinza 'o-o-ku-u-i-ing-za-a
+okuwaayo 'o-o-ku-u-wa-a-o-o
+tutyo 'tu-u-to-o
+nakyo 'na-a-kio-o
+mikono 'mmi-i-kio-o-no-o
+etaano 'e-ta-a-no-o
+Bwe 'bwe
+gutyo 'gu-u-to-o
+gwonna 'gwo-ong-na-a
+Sulemaani 'su-u-le-ma-a-ni-i
+yakola 'ya-a-kio-o-la-a
+miwanvu 'mmi-i-wa-nvu-u
+gityo 'gi-i-to-o
+balyoke 'ba-a-lo-o-kie
+bakutye 'ba-a-ku-u-te
+okutambuliranga 'o-o-ku-u-ta-mbu-u-li-i-rang-ga-a
+makubo 'mma-a-ku-u-bo-o
+go 'go-o functional
+anaayogeranga 'a-a-nga-a-o-o-ge-rang-ga-a
+ekikozezza 'e-kii-i-kio-o-ze-zza-a
+bamugamba 'ba-a-mu-u-ga-mba-a
+bw'oba 'bwo-o-ba-a
+mwekuume 'mmwe-ku-u-u-u-me
+mukole 'mu-u-kio-o-le
+mutyo 'mu-u-to-o
+obusungu 'o-o-bu-u-su-u-ngu-u
+bujja 'bu-ujj-jja-a
+butyo 'bu-u-to-o
+Zerubbaberi 'ze-ru-u-bba-be-ri-i
+mutabani 'mu-u-ta-ba-ni-i
+Seyalutyer 'se-ya-lu-u-ter
+abasanyukira 'a-a-ba-sa-nu-u-kii-i-ra-a
+okutya 'o-o-ku-u-tya-a
+Bajjajjammwe 'ba-ajj-jjajj-jjamm-we
+si 'si-i functional
+baakolanga 'ba-a-a-kio-o-lang-ga-a
+batyo 'ba-a-to-o
+ndyoke 'nddo-o-kie
+ndabe 'ngdda-be
+ebirungi 'e-bi-i-ru-u-ngi-i
+bubwo 'bu-u-bwo-o
+nsonyiwa 'nso-o-ni-i-wa-a
+ekifo 'e-kii-i-fo-o
+ndyokenkyukire 'nddo-o-kie-nki-u-u-kii-i-re
+mukono 'mu-u-kio-o-no-o
+nandyagadde 'na-and-dya-gadd-dde
+kibeere 'kii-i-be-e-re
+ng'ekigambo 'nge-kii-i-ga-mbo-o
+yandyebase 'ya-and-de-ba-se
+n'abakazi 'nga-ba-ka-zi-i
+ndyeyongera 'ndde-o-o-nge-ra-a
+emirundimusanvu 'e-mmi-i-ru-und-di-i-mu-u-sa-nvu-u
+okubabonereza 'o-o-ku-u-ba-bo-o-ne-re-za-a
+olw'ebibi 'o-o-lwe-bi-i-bi-i
+byammwe 'byamm-we
+Gadyeri 'ga-a-dde-ri-i
+Sodi 'so-o-ddi-i
+Lewubeeni 'le-wu-u-be-e-ni-i
+omubereberye 'o-o-mu-u-be-re-be-re
+yalaba 'ya-a-la-ba-a
+ng'ebbanga 'nge-bbang-ga-a
+weeriri 'we-e-ri-i-ri-i
+ery'okuwummuliramu 'e-ro-o-ku-u-wu-u-mmu-u-li-i-ra-mu-u
+n'akakanyaza 'nga-ka-kang-ya-za-a
+zirya 'zi-i-rya-a
+muti 'mu-u-ti-i
+ogubamerera 'o-o-gu-u-ba-me-re-ra-a
+nsuku 'nsu-u-ku-u
+muddo 'mu-udd-ddo-o
+ogw'ensi 'o-o-gwe-nsi-i
+n'ababereberye 'nga-ba-be-re-be-re
+ab'omu 'a-a-bo-o-mu-u
+nsi 'nsi-i
+ey'e 'e-e functional
+balifa 'ba-a-li-i-fa-a
+mubereberye 'mu-u-be-re-be-re
+atuula 'a-a-tu-u-u-u-la-a
+ntebe 'nte-be
+ey'obwakabaka 'e-o-o-bwa-ka-ba-ka-a
+eby'amagero 'e-ba-mma-ge-ro-o
+byange 'bya-nge
+biryoke 'bi-i-ro-o-kie
+byeyongere 'be-o-o-nge-re
+ery'ekibiina 'e-re-kii-i-bi-i-i-i-na-a
+baligutta 'ba-a-li-i-gu-u-tta-a
+lwaggulo 'lwa-ggu-u-lo-o
+balirya 'ba-a-li-i-rya-a
+ennyama 'enn-gya-ma-a
+kiro 'kii-i-ro-o
+Temugiryangako 'te-mu-u-gi-i-ryang-ga-kio-o
+mbisi 'mmbi-i-si-i
+newakubadde 'ne-wa-ku-u-badd-dde
+enfumbe 'e-nfu-u-mbe
+n'amazzi 'nga-mma-zzi-i
+muligirya 'mu-u-li-i-gi-i-rya-a
+luli 'lu-u-li-i
+eggye 'e-gge
+erya 'e-rya-a
+liryoka 'li-i-ro-o-ka-a
+liva 'li-i-va-a
+Miryamu 'mmi-i-rya-mu-u
+n'abaddamu 'nga-badd-dda-mu-u
+Mumuyimbire 'mu-u-mu-u-i-i-mbi-i-re
+biggwa 'bi-i-ggwa-a
+eggulu 'e-ggu-u-lu-u
+n'ensi 'ne-nsi-i
+n'eggye 'ne-gge
+lyabyo 'lya-bo-o
+n'amuggyamu 'nga-mu-u-ggya-mu-u
+olubiriizi 'o-o-lu-u-bi-i-ri-i-i-i-zi-i
+lumu 'lu-u-mu-u
+n'azzaawo 'nga-zza-a-wo-o
+kyalwo 'kiya-lwo-o
+kutegana 'ku-u-te-ga-na-a
+mw'onoggyanga 'mmwo-o-no-o-ggyang-ga-a
+ebyokulya 'e-bo-o-ku-ul-ya-a
+ez'obulamu 'e-zo-o-bu-u-la-mu-u
+kyeyava 'kie-ya-va-a
+amuggya 'a-a-mu-u-ggya-a
+lusuku 'lu-u-su-u-ku-u
+Adeni 'a-a-dde-ni-i
+alimenga 'a-a-li-i-meng-ga-a
+ettaka 'e-tta-ka-a
+yaggibwa 'ya-a-ggi-i-bwa-a
+Nuuwa 'nu-u-u-u-wa-a
+n'aggyako 'nga-ggya-kio-o
+ekyasaanikira 'e-kiya-sa-a-ni-i-kii-i-ra-a
+eryato 'e-rya-to-o
+n'akwasa 'nga-kiwa-sa-a
+Abafirisuuti 'a-a-ba-fi-i-ri-i-su-u-u-u-ti-i
+obuggya 'o-o-bu-u-ggya-a
+akuggyeko 'a-a-ku-u-gge-kio-o
+enjuba 'en-jju-u-ba-a
+ekyali 'e-kiya-li-i
+luggya 'lu-u-ggya-a
+bayiringisa 'ba-a-i-i-ri-i-ngi-i-sa-a
+ejjinja 'ejj-jji-ing-jja-a
+okuliggya 'o-o-ku-u-li-i-ggya-a
+k'oluzzi 'kio-o-lu-u-zzi-i
+boogera 'bo-o-o-o-ge-ra-a
+Yakobo 'ya-a-kio-o-bo-o
+ebyali 'e-bya-li-i
+kitaffe 'kii-i-ta-ffe
+abimuggyeeko 'a-a-bi-i-mu-u-gge-e-kio-o
+ensolo 'e-nso-o-lo-o
+za 'za-a functional
+kitammwe 'kii-i-tamm-we
+yazimuggyako 'ya-a-zi-i-mu-u-ggya-kio-o
+n'aziwa
+baggya 'ba-a-ggya-a
+Dina 'ddi-i-na-a
+Sekemu 'se-kie-mu-u
+okolimiddwa 'o-o-kio-o-li-i-mi-idd-ddwa-a
+okusinga 'o-o-ku-u-si-ing-ga-a
+ez'omu 'e-zo-o-mu-u
+amaggwa 'a-a-mma-ggwa-a
+n'amatovu 'nga-mma-to-o-vu-u
+g'eneekuzaaliranga 'ge-ne-e-ku-u-za-a-li-i-rang-ga-a
+emisana 'e-mmi-i-sa-na-a
+n'ekiro 'ne-kii-i-ro-o
+tebiggwengawo 'te-bi-i-ggweng-ga-wo-o
+okutuusa 'o-o-ku-u-tu-u-u-u-sa-a
+emirembe 'e-mmi-i-re-mbe
+egitaliggwaawo 'e-gi-i-ta-li-i-ggwa-a-wo-o
+ggwanga 'ggwang-ga-a
+limu 'li-i-mu-u
+ndikufuula 'nddi-i-ku-u-fu-u-u-u-la-a
+eggwanga 'e-ggwang-ga-a
+eddene 'edd-dde-ne
+ndayira 'ngdda-i-i-ra-a
+siritwala 'si-i-ri-i-twa-la-a
+kaggwa 'ka-a-ggwa-a
+n'eggwanga 'ne-ggwang-ga-a
+baliweereza 'ba-a-li-i-we-e-re-za-a
+ndirisalira 'nddi-i-ri-i-sa-li-i-ra-a
+omusango 'o-o-mu-u-sa-ngo-o
+Ggwe 'ggwe functional
+alaba 'a-a-la-ba-a
+N'amazzi 'nga-mma-zzi-i
+ag'omu 'a-a-go-o-mu-u
+ddiba 'ddddi-i-ba-a
+gaggwaamu 'ga-a-ggwa-a-mu-u
+n'akoowoolera 'nga-kio-o-o-o-wo-o-o-o-le-ra-a
+erinaya 'e-ri-i-na-ya-a
+ataggwaawo 'a-a-ta-ggwa-a-wo-o
+Effeeza 'e-ffe-e-za-a
+yaggwa 'ya-a-ggwa-a
+y'e 'e functional
+Omwaka 'o-omm-wa-ka-a
+ogwo 'o-o-gwo-o functional
+gwaggwaako 'gwa-ggwa-a-kio-o
+ebikere 'e-bi-i-kie-re
+bizikirizibwe 'bi-i-zi-i-kii-i-ri-i-zi-i-bwe
+kuggwe 'ku-u-ggwe
+zo 'zo-o functional
+mwanjululiza 'nwmmjju-u-lu-u-li-i-za-a
+ebibatu 'e-bi-i-ba-tu-u
+ndage 'ngdda-e
+waabwe 'wa-a-a-be
+ndyefunira 'ndde-fu-u-ni-i-ra-a
+ekitiibwa 'e-kii-i-ti-i-i-ibw-wa-a
+ggye 'e functional
+lyonna 'lo-o-ong-na-a
+Omukono 'o-o-mu-u-kio-o-no-o
+ddyo 'ddddo-o-o functional
+n'obagamba 'no-o-ba-ga-mba-a
+Ndyongera 'nddo-o-o-nge-ra-a
+ezzadde 'e-zzadd-dde
+ng'emmunyeenye 'ngemm-mu-u-ne-e-ne
+ez'omu 'e-zo-o-mu-u
+ggulu 'u-u-lu-u
+Emmere 'emm-me-re
+ononguzanga 'o-o-no-o-ngu-u-zang-ga-a
+ffeeza 'ffe-e-za-a
+ndyenga 'nddeng-ga-a
+mmala 'mmmma-la-a
+lusozi 'lu-u-so-o-zi-i
+amakumi 'a-a-mma-ku-u-mi-i
+ana 'a-a-na-a functional
+emisana 'e-mmi-i-sa-na-a
+n'ekiro 'ne-kii-i-ro-o
+mutabani 'mu-u-ta-ba-ni-i
+Gidyoni 'i-i-ddo-o-o-ni-i
+awuula 'a-a-wu-u-u-u-la-a
+oba 'o-o-ba-a functional
+ani 'a-a-ni-i functional
+nnali 'ngna-li-i functional
+ndyazaamaanyizza 'dyndza-a-ma-a-ni-i-zza-a
+olusajja 'o-o-lu-u-sajj-jja-a
+luno 'lu-u-no-o
+lwandyetabaganyizza 'ndlwde-ta-ba-ga-ni-i-zza-a
+naki 'na-a-kii-i
+kennyini 'kie-nni-i-ni-i
+wandyeggyeeyo 'wa-and-de-e-e-o-o-o
+awo 'a-a-wo-o functional
+ndyongera 'nddo-o-o-nge-ra-a
+nnaku 'ngna-ku-u
+ndyerera 'ndde-re-ra-a
+ennyumba 'e-nnu-u-mba-a
+ya 'ya-a functional
+Yerobowaamu 'e-ro-o-bo-o-wa-mu-u
+ng'omuntu 'ngo-o-mu-u-ntu-u
+bw'ayera 'bwa-e-ra-a
+obusa 'o-o-bu-u-sa-a
+n'okuggwaawo 'no-o-ku-u-wa-wo-o
+buggwaawo 'bu-u-wa-wo-o
+bwonna 'bwo-ong-na-a
+Aki 'a-a-kii-i
+wa 'wa-a functional
+Abudyeri 'a-a-bu-u-dde-ri-i
+Maasayi 'mma-a-a-sa-i-i
+Adyeri 'a-a-dde-ri-i
+muzze 'mu-u-zze
+okundyamu 'o-o-ku-unddy-mu-u
+olukwe 'o-o-lu-u-kie
+eri 'e-ri-i functional
+abalabe 'a-a-ba-la-be
+bange 'ba-a-nge
+Yasobeyamu 'ya-a-so-o-bey-mu-u
+Zabudyeri 'za-a-bu-u-dde-ri-i
+ye 'e functional
+omukulu 'o-o-mu-u-ku-u-lu-u
+kaakano 'ka-a-a-ka-no-o
+nandigalamidde 'na-and-di-i-ga-la-mi-idd-dde
+nsirika 'nsi-i-ri-i-ka-a
+Nandyebase 'na-and-de-ba-se
+Era 'e-ra-a functional
+ndyatula 'dyndtu-u-la-a
+emisango 'e-mmi-i-sa-ngo-o
+gyange 'ynge
+ndyejjusa 'nddejj-jju-u-sa-a
+obubi 'o-o-bu-u-bi-i
+ndowooza 'nddo-o-wo-o-o-o-za-a
+okubakola 'o-o-ku-u-ba-kio-o-la-a
+twandyonoonye 'ndtwdo-o-o-no-o-o-o-ne
+zaffe 'za-a-ffe
+ffe 'ffe
+ntyo 'nto-o-o
+ndyaza 'dyndza-a
+ezzadde 'e-zzadd-dde
+lya 'lya-a functional
+Dawudi 'dda-a-wu-u-ddi-i
+omuddu 'o-o-mu-udd-ddu-u
+wange 'wa-a-nge
+n'Abaleevi 'nga-ba-le-e-u-i-i
+abampeereza 'a-a-ba-mpe-e-re-za-a
+nange 'na-a-nge
+ndyogerera 'nddo-o-o-e-re-ra-a
+naawe 'nga-a-a-e
+ndyegassa 'ndde-ga-ssa-a
+olulimi 'o-o-lu-u-li-i-mi-i
+lwo 'lwo-o functional
+ndyasamya 'dyndsa-mya-a
+akamwa 'a-a-ka-mwa-a
+ndyabiza 'dyndbi-i-za-a
+ekisenge 'e-kii-i-se-nge
+mwasiigako 'wmmsi-i-i-i-ga-kio-o
+ebbumba 'e-bbu-u-mba-a
+eritasekuddwa 'e-ri-i-ta-se-ku-udd-ddwa-a
+ndyonoona 'nddo-o-o-no-o-o-o-na-a
+ekifo 'e-kii-i-fo-o
+ekitukuvu 'e-kii-i-tu-u-ku-u-u-u-u
+ndyeraliikiriza 'ndde-ra-li-i-i-i-kii-i-ri-i-za-a
+emitima 'e-mmi-i-ti-i-ma-a
+gy'amawanga 'a-mmawng-ga-a
+amangi 'a-a-mma-ngi-i
+ndyemanyisa 'ndde-ma-ni-i-sa-a
+bo 'bo-o functional
+ndyerula 'ndde-ru-u-la-a
+emisingi 'e-mmi-i-si-i-ngi-i
+gyakyo 'ykio-o-o
+ndyogera 'nddo-o-o-e-ra-a
+Be 'be functional
+n'agamba 'nga-ga-mba-a
+Mazima 'mma-a-zi-i-ma-a
+mbagamba 'mmba-ga-mba-a
+omu 'o-o-mu-u
+anandyamu 'a-a-nanddy-mu-u
+olukwe 'o-o-lu-u-kie
+andyamu 'a-anddy-mu-u
+anaatera 'a-a-nga-a-te-ra-a
+okutuuka 'o-o-ku-u-tu-u-u-u-ka-a
+atamugamba 'a-a-ta-mu-u-ga-mba-a
+Jjula 'jjjju-u-la-a
+ndye 'ndde
+Abayigirizwa 'a-a-ba-i-i-i-i-ri-i-zwa-a
+bajjukira 'ba-ajj-jju-u-kii-i-ra-a
+kyawandiikibwa 'ndwykidi-i-i-i-kii-ibw-wa-a
+Obuggya 'o-o-bu-u-ya-a
+bw'ennyumba 'bwe-nnu-u-mba-a
+bulindya 'bu-u-li-ind-dya-a
+bw'atyo 'bwa-to-o-o
+andya 'a-and-dya-a
+aliba 'a-a-li-i-ba-a
+omulamu 'o-o-mu-u-la-mu-u
+teyandyogedde 'teynd-do-o-o-edd-dde
+lulala 'lu-u-la-la-a
+oluvannyuma 'o-o-lu-u-u-a-nnu-u-ma-a
+lw'ebyo 'lwe-bo-o-o
+mwandyogeredde 'ndwmmdo-o-o-e-redd-dde
+waffe 'wa-a-ffe
+bw'alyagala 'bwaly-ga-la-a
+tuliba 'tu-u-li-i-ba-a
+balamu 'ba-a-la-mu-u
+adyatula 'a-addy-tu-u-la-a
+ga 'ga-a functional
+bamalayika 'ba-a-ma-la-i-i-ka-a
