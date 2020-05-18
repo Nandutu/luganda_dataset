@@ -13,4 +13,7 @@
 ### Navigate to target/marytts-5.2-SNAPSHOT/bin/marytts-server in command line. When the server is running; browse http://localhost:59125/
 ### https://github.com/Nandutu/luganda_dataset . The little dataset used to train the voices. test/.txt and lg.txt 
 
+#Paper
+Link to the paper https://arxiv.org/ftp/arxiv/papers/2005/2005.05447.pdf
+
 
